@@ -1,0 +1,1200 @@
+job_name,job_company,job_location,job_pay,job_type,job_benefits,job_duties,job_basic_reqs,job_desired_reqs,job_description,job_review
+Data Scientist,Cognitiv.ai,"10900 NE 8th St, Bellevue, WA 98004","$100,000 - $150,000 a year",Full-time,"Health insurance
+Dental insurance
+401(k)
+Paid time off
+Vision insurance
+401(k) matching
+Life insurance
+Referral program
+Retirement plan","Oversee and manage the performance of model-based advertising campaigns
+Rapidly iterate and test new ideas in an experimental framework
+Create visualizations and present findings and data
+Research new architectures, labelling schemes, and training methodologies.
+Train novel deep neural networks to predict user behavior.
+Monitor performance of models in production.","1+ years industry experience data science roles (or equivalent graduate level education experience)
+Proven track record of delivering quality products both individually and as part of a team
+Experience in relevant programming languages (e.g. Python)
+Experience within the Python Data Science ecosystem - NumPy, SciPy, and Jupyte.
+Experience with one or more Deep Learning framework (e.g. pytorch)
+SQL experience","Experience building deep neural networks which are used in production
+Pytorch experience
+AWS experience","Cognitiv builds custom programmatic ad buying algorithms using the latest advances in Deep Learning. Our platform enables us to offer custom algorithms to all our clients, including advertisers who build custom algorithms for their brands and ROI-types, and agencies who offer more sophisticated targeting solutions to their programmatic clients.
+Applied Science and Analytics at Cognitiv is a highly visible team at the center of our products. Our team has a direct impact on the success of our campaigns. As a Data Scientist, you will assist in building the next generation of deep neural network models to optimize performance of our campaigns.
+Responsibilities
+Oversee and manage the performance of model-based advertising campaigns
+Rapidly iterate and test new ideas in an experimental framework
+Create visualizations and present findings and data
+Research new architectures, labelling schemes, and training methodologies.
+Train novel deep neural networks to predict user behavior.
+Monitor performance of models in production.
+Basic Qualifications:
+1+ years industry experience data science roles (or equivalent graduate level education experience)
+Proven track record of delivering quality products both individually and as part of a team
+Experience in relevant programming languages (e.g. Python)
+Experience within the Python Data Science ecosystem - NumPy, SciPy, and Jupyte.
+Experience with one or more Deep Learning framework (e.g. pytorch)
+SQL experience
+Preferred Qualifications:
+Experience building deep neural networks which are used in production
+Pytorch experience
+AWS experience
+Job Type: Full-time
+Pay: $100,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+COVID-19 considerations:
+Follow all CDC guidelines
+Education:
+Bachelor's (Preferred)
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: One location",
+Data Scientist,Community Center for Education Results,"1200 12th Ave S, Seattle, WA 98144","$75,000 - $85,000 a year",Full-time,"Health insurance
+Dental insurance
+401(k)
+Paid time off
+Vision insurance
+401(k) matching
+Life insurance","Work closely with internal and external partners to provide data, analytics, and reporting to complement youth storytelling and support advocacy and continuous improvement initiatives intended to improve education equity
+Develop and produce analyses to examine and track racial equity in the education system
+Develop data visualizations and complimentary narrative that centers students
+Develop open-source measurement tools that support education system improvement (e.g. data collection tools, evaluation measures, application of statistical models)
+Collect, clean, analyze and interpret new data sets to answer emerging analytic questions
+Provide thought partnership and data support to project teams, including data preparation, data tool development, data collection, and the summarization and presentation of results
+Lead/co-lead and author/co-author data and research reports, briefs, and blog posts
+Present to audiences ranging from students and families to district and state leaders and national conferences
+Produce technical speciﬁcations and research manuals, documenting variables, data sources, and methodologies","Demonstrated personal commitment to anti-racism work with an understanding of the challenges and barriers faced by communities concerning race, ethnicity, age, class, ability, immigration status, gender, etc.—and their intersections
+Strong demonstrated quantitative analytical skills, with the ability to collect, organize, analyze, summarize, visualize, and disseminate signiﬁcant amounts of information with attention to detail and accuracy
+Ability to frame and present data with written narrative that centers students’ experience, and is useful and easy-to-understand
+Experience conducting and interpreting statistical analyses using applied quantitative research or data science methods
+Self-directed with ability to launch and lead a portfolio of projects and manage personal workload
+Ability to work as part of a team, including reviewing code written by other team members, clearly communicating methods and knowledge, and demonstrating ﬂexibility in picking up and sharing workload on a changing portfolio of projects
+Experience in the ﬁeld of education, with a preference for expertise in learning measurement, school ﬁnance, staﬃng and administration, special education, or discipline
+Strong communications, writing, and presentation skills, including the ability to present complex information in an understandable and compelling manner for school- and community-based audiences
+Flexibility and desire to work with a dynamic team of individuals with a passion for the success of youth in the Road Map Project","Demonstrated proﬁciency with SQL querying and manipulating data in relational database systems
+Demonstrated proﬁciency in data science methodologies using Python, or R
+Experience using Tableau to produce data visualizations
+Strong experience using GitHub
+Knowledge in another relevant programming language (JavaScript, PowerShell, etc.)
+Familiarity with Google Suite/particularly Google Sheets
+Aptitude for solving data and measurement challenges
+Eagerness towards adopting an analytics engineering mindset
+Experience conducting literature reviews to inform analytic approaches
+Knowledge of education data and/or background in the ﬁeld of education or childhood development
+Bilingual or multilingual
+Connections to the Road Map Project region, with a preference for people who attended school and/or live(d) in the region","The Community Center for Education Results (CCER), which supports the Road Map Project initiative, is seeking a Data Scientist to provide education data expertise and analytic skills that center community and boldly lead with race. The Data Scientist will work closely with internal CCER team members and external Road Map Project partners to center students’ experiences in conducting analysis and research, developing dashboards and data tools, and presenting and communicating results that serve to create a more equitable education system for Road Map Project region students.
+The Data Scientist is an integral member of CCER’s high-energy Data Team, alongside a Data Strategy Director, Senior Data Analyst, and Data Engineer. The Data Team is part of a larger, integrated team comprised of Research, Communication, and Community and Family Engagement Teams, and also works closely with CCER Impact Teams, students, families, community groups, and other Road Map Project partners.
+The team performs mixed-methods research, data science, and develops reporting tools to help answer community questions, examine racial equity, and support advocacy and local continuous improvement eﬀorts to advance racial equity in education systems. CCER maintains a longitudinal education data warehouse that includes de-identiﬁed pre-kindergarten through college student academic data for students who have attended K-12 in any of the seven Road Map Project districts since 2010 (N ~ 400,000), and also collects and maintains data from other external and novel sources (e.g. staﬀ and student survey data, educator data and other school system information).
+ABOUT CCER AND THE ROAD MAP PROJECTCCER is a 501(c)(3) nonproﬁt organization established in 2010 to staﬀ and support the Road Map Project—a collective impact initiative to improve student achievement from cradle through college and career in seven King County, Washington school districts: Auburn, Federal Way, Highline, Kent, Renton, (South) Seattle, and Tukwila. Through multisector collaboration with hundreds of organizations and individuals, the Road Map Project aims to increase equitable policies and practices in education systems to eliminate opportunity and achievement gaps, and for 70 percent of the region’s youth to earn a college degree or career credential by 2030.
+RESPONSIBILITIES
+The Data Scientist will work closely with CCER staﬀ, students, parents, community members, school and district staﬀ, and other external partners to understand their advocacy and education system improvement priorities, then develop approaches to data collection, analysis, and reporting that support these goals.
+DUTIES:
+Work closely with internal and external partners to provide data, analytics, and reporting to complement youth storytelling and support advocacy and continuous improvement initiatives intended to improve education equity
+Develop and produce analyses to examine and track racial equity in the education system
+Develop data visualizations and complimentary narrative that centers students
+Develop open-source measurement tools that support education system improvement (e.g. data collection tools, evaluation measures, application of statistical models)
+Collect, clean, analyze and interpret new data sets to answer emerging analytic questions
+Provide thought partnership and data support to project teams, including data preparation, data tool development, data collection, and the summarization and presentation of results
+Lead/co-lead and author/co-author data and research reports, briefs, and blog posts
+Present to audiences ranging from students and families to district and state leaders and national conferences
+Produce technical speciﬁcations and research manuals, documenting variables, data sources, and methodologies
+REQUIREMENTS
+Demonstrated personal commitment to anti-racism work with an understanding of the challenges and barriers faced by communities concerning race, ethnicity, age, class, ability, immigration status, gender, etc.—and their intersections
+Strong demonstrated quantitative analytical skills, with the ability to collect, organize, analyze, summarize, visualize, and disseminate signiﬁcant amounts of information with attention to detail and accuracy
+Ability to frame and present data with written narrative that centers students’ experience, and is useful and easy-to-understand
+Experience conducting and interpreting statistical analyses using applied quantitative research or data science methods
+Self-directed with ability to launch and lead a portfolio of projects and manage personal workload
+Ability to work as part of a team, including reviewing code written by other team members, clearly communicating methods and knowledge, and demonstrating ﬂexibility in picking up and sharing workload on a changing portfolio of projects
+Experience in the ﬁeld of education, with a preference for expertise in learning measurement, school ﬁnance, staﬃng and administration, special education, or discipline
+Strong communications, writing, and presentation skills, including the ability to present complex information in an understandable and compelling manner for school- and community-based audiences
+Flexibility and desire to work with a dynamic team of individuals with a passion for the success of youth in the Road Map Project
+DESIRED QUALIFICATIONS
+Demonstrated proﬁciency with SQL querying and manipulating data in relational database systems
+Demonstrated proﬁciency in data science methodologies using Python, or R
+Experience using Tableau to produce data visualizations
+Strong experience using GitHub
+Knowledge in another relevant programming language (JavaScript, PowerShell, etc.)
+Familiarity with Google Suite/particularly Google Sheets
+Aptitude for solving data and measurement challenges
+Eagerness towards adopting an analytics engineering mindset
+Experience conducting literature reviews to inform analytic approaches
+Knowledge of education data and/or background in the ﬁeld of education or childhood development
+Bilingual or multilingual
+Connections to the Road Map Project region, with a preference for people who attended school and/or live(d) in the region
+If you would like to be considered further for this position, please send the following information:
+Resume
+Cover Letter that shares why you are interested in this position with CCER and how your background and/or career goals align with this role.
+LOCATION
+This position is currently remote. CCER oﬃces are located in Paciﬁc Towers: 1200 12thAvenue South, Suite 701 Seattle, WA 98144
+COMPENSATION
+The salary range for this position is $75,000 - $85,000 annually, depending on experience. Excellent beneﬁts package, including health, vision, dental, and life insurance as well as a 401k plan with employer match. CCER is an equal opportunity employer.
+Preferred application deadline is January 31, 2022. Position is open until ﬁlled. To stay up to date on CCER job openings, follow us on LinkedIn.
+Job Type: Full-time
+Pay: $75,000.00 - $85,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Work Location: One location",
+Data Scientist,PayPal,,,,,"Job
+Company",,,"Who we are: At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We’re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We’re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.
+Job Description Summary: n/a
+Job Description:
+n/a
+For more than 20 years, PayPal has remained at the forefront of the digital payment revolution. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, our open digital payments platform gives PayPal’s 400 million active account holders the confidence to connect and transact in new and powerful ways. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying, or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.",3.9
+Data Analyst - Tiktok Ads,TikTok,,,,,"Apply expertise in data analysis and visualization to see beyond the numbers and understand how our users interact with our ads products.
+Deliver data support for both short term and long term business development plans from strategic scope and execution aspects with in-depths analysis.
+Work closely with key cross functional teams such as product managers, data science, and engineers to solve business problems.
+Build/maintain reports, dashboards, and metrics to monitor the performance of business products.
+Bachelor's degree with a background in Math, Economics, Computer Science, Statistics, or other quantitative fields;
+Expert experience pulling large and complex data using SQL and writing data pipelines.
+Experience with a data visualization tool (e.g. Tableau);","Experience doing quantitative analysis;
+Development experience in at least one scripting language (PHP, Python, Perl, etc.);
+Excellent verbal and written English communication skills;
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus",,"TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+The mission of TikTok Monetization Platform is to connect global advertisers, merchants, affiliates and users to get suitable marketing solutions and conversion funnels, to maximize conversion and monetization opportunities. Our vision is to build an easy-to-understand, easy-to-use and powerful platform for onsite commerce.
+We are looking for data analysts to join the efforts driving monetization,
+Apply expertise in data analysis and visualization to see beyond the numbers and understand how our users interact with our ads products.
+Deliver data support for both short term and long term business development plans from strategic scope and execution aspects with in-depths analysis.
+Work closely with key cross functional teams such as product managers, data science, and engineers to solve business problems.
+Build/maintain reports, dashboards, and metrics to monitor the performance of business products.
+Bachelor's degree with a background in Math, Economics, Computer Science, Statistics, or other quantitative fields;
+Expert experience pulling large and complex data using SQL and writing data pipelines.
+Experience with a data visualization tool (e.g. Tableau);
+Prefer to Have
+Experience doing quantitative analysis;
+Development experience in at least one scripting language (PHP, Python, Perl, etc.);
+Excellent verbal and written English communication skills;
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at USRC@tiktok.com.",3.5
+Data Engineers,T-Mobile,"837 North 34th Street, Seattle, WA 98103",,,Referral program,"Collaborate with team of business analysts, data scientists, and engineers to help create optimized methods which improve new model performance as well as existing solutions.
+Drive T-Mobile's business intelligence utilizing network and customer data to assist in building innovative new products.
+Assist in database integration/s and the cleaning of messy, unstructured data sets.
+Work closely with data scientists to determine which data are needed for analysis, and with data architects to determine requirements for scalable solutions.
+Build and optimize high-performance algorithms.
+Scale existing or proposed algorithms on terabytes of data.
+Improve time complexity and space complexity for data pre-processing.
+Recommend ways to improve data pipeline reliability, pipeline efficiency, and data quality.
+Process structured and unstructured data, validate data quality, and assist in the design of automated data quality tests in big data environment.
+Assist in the development and support of data products and develop automated processes for data mining, modeling, and enrichment.
+Assist in data product deployment and create custom software components using Hive, Spark or PySpark (e.g. specialized UDFs) and analytics applications.
+Create source control and visualization tools for tracking model progress, model performance and data quality.
+Integrate new data management technologies and software engineering tools into existing structures.
+Develop new data visualization tools to assist in the monitoring and ongoing performance of ML models in production.","Location: Seattle, WA
+This position is eligible for the employee referral program.","Visit www.tmobile.jobs.
+Create a candidate profile, and apply to requisition number 186258BR
+T-Mobile requires all employees in this position to be fully vaccinated for COVID-19 prior to starting work. The CDC defines “fully vaccinated” as two weeks after the second dose of Pfizer and Moderna, and two weeks after Johnson & Johnson. T-Mobile will require proof of vaccination and consider requests for exemption from this requirement during the offer phase as a reasonable accommodation for medical reasons or sincerely held religious beliefs where the accommodation would not cause T-Mobile undue hardship or pose a direct threat to the health and safety of others.","Position summary
+T-Mobile is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. Data Engineers located in Seattle, WA will help T-Mobile build products based on advanced analytics in big data environment in collaboration with Data Scientists, Product Management, and Software Engineers.
+Skill requirements:
+(1) Automating multiple terabytes of telecom-based data and productionizing machine learning models.
+(2) Building data pipelines for AI models using cutting-edge software including AirFlow and DataBricks for batch processing data.
+(3) Coding in Data Science and Data Engineering computing frameworks and programming languages: Python, PySpark, Spark, Scala, Java, and SQL.
+(4) Preparing technical documentation relating to highly complex Hadoop architectures, including Architecture diagrams, Database schemas, Data Warehouse Schemas, and Detailed Logic Flow diagrams.
+(5) Integrating on-premise and cloud-based data environments to build and deploy hybrid cloud solutions.
+Experience and education requirements:
+PRIMARY REQUIREMENTS: Master’s Degree in Software Engineering, Computer Engineering, Computer Science, or related and 1 year of relevant work experience.
+ALTERNATIVE REQUIREMENTS: Bachelor’s degree in Software Engineering, Computer Engineering, Computer Science, or related and 3 years of relevant work experience.
+T-Mobile requires all employees in this position to be fully vaccinated for COVID-19 prior to starting work. The CDC defines “fully vaccinated” as two weeks after the second dose of Pfizer and Moderna, and two weeks after Johnson & Johnson. T-Mobile will require proof of vaccination and consider requests for exemption from this requirement during the offer phase as a reasonable accommodation for medical reasons or sincerely held religious beliefs where the accommodation would not cause T-Mobile undue hardship or pose a direct threat to the health and safety of others.
+Additional:
+Location: Seattle, WA
+This position is eligible for the employee referral program.
+How to apply:
+Visit www.tmobile.jobs.
+Create a candidate profile, and apply to requisition number 186258BR
+T-Mobile requires all employees in this position to be fully vaccinated for COVID-19 prior to starting work. The CDC defines “fully vaccinated” as two weeks after the second dose of Pfizer and Moderna, and two weeks after Johnson & Johnson. T-Mobile will require proof of vaccination and consider requests for exemption from this requirement during the offer phase as a reasonable accommodation for medical reasons or sincerely held religious beliefs where the accommodation would not cause T-Mobile undue hardship or pose a direct threat to the health and safety of others.
+Position duties and responsibilities include, but are not limited to:
+Collaborate with team of business analysts, data scientists, and engineers to help create optimized methods which improve new model performance as well as existing solutions.
+Drive T-Mobile's business intelligence utilizing network and customer data to assist in building innovative new products.
+Assist in database integration/s and the cleaning of messy, unstructured data sets.
+Work closely with data scientists to determine which data are needed for analysis, and with data architects to determine requirements for scalable solutions.
+Build and optimize high-performance algorithms.
+Scale existing or proposed algorithms on terabytes of data.
+Improve time complexity and space complexity for data pre-processing.
+Recommend ways to improve data pipeline reliability, pipeline efficiency, and data quality.
+Process structured and unstructured data, validate data quality, and assist in the design of automated data quality tests in big data environment.
+Assist in the development and support of data products and develop automated processes for data mining, modeling, and enrichment.
+Assist in data product deployment and create custom software components using Hive, Spark or PySpark (e.g. specialized UDFs) and analytics applications.
+Create source control and visualization tools for tracking model progress, model performance and data quality.
+Integrate new data management technologies and software engineering tools into existing structures.
+Develop new data visualization tools to assist in the monitoring and ongoing performance of ML models in production.
+Equal Employment Opportunity
+We take equal opportunity seriously—by choice.
+T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated. T-Mobile USA, Inc. maintains a drug-free workplace. The unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in T-Mobile's workplace and employee conduct in violation of this prohibition is subject to employer discipline, including termination.",3.8
+Data Scientists,Ars Quanta,,,,,,,,We are always looking for Data Scientists who want to work on challenging and interesting projects in a variety of industries.,
+"Graduate Data Science, Analyst I - August 2022 - Seattle",Expedia.com,,,,"Travel reimbursement
+Employee assistance program
+Employee discount","Team Rotations: two 6-month rotations within different teams in the same office, to build knowledge of our business and to across Expedia Group divisions. Contribute to meaningful work that makes a positive impact on travel, all while advancing your career
+Onboarding: 1-week training that covers technical and professional skills, plus an introduction to Expedia Group
+Learning Series: communities, technology talks and regular workshops to build your technical and interpersonal skills
+Leadership Series: opportunities to ask questions directly to our leaders during events, and to learn about their career journeys
+Social Events and Networking: build your network with other Graduates on the program during regular socials and join our Inclusion Business Groups
+Support Network: mentorship from a dedicated structure of Buddies, Mentors, Managers, the Early Careers and the L&D teams
+Benefits: Leisure Travel & Wellness Reimbursement, Travel Discounts, Family & Friends Discounts, Employee Assistance Program
+RSUs: Restricted Stock Units
+Destination Role: after experiencing different teams during two rotations, select a preferred Destination Role with us","You'll identify partner teams' key challenges, provide/prototype solutions, and help solve using statistical analysis and tools
+You'll work to decipher problems by identifying, and using, data sources, making reasonable assumptions, and then turn data into meaningful insights to help drive improvements for customers, for the business, and for our operations.
+You'll communicate insightful analyses findings and recommendations to support, influence and challenge business decisions to various levels of our leadership
+You'll make use of data visualization principles.
+You'll apply basic probabilistic thinking to business challenges.
+You'll have a good understanding of our domain (i.e. travel, e-commerce), business objectives and critical reasoning skills.
+You'll become a data specialist and the point of contact for data questions and insights
+You'll turn data-based findings and insights into hypotheses for AB testing
+You'll review engagement and conversion trends across the network, identify breaks in trends, underlying drivers, and surface opportunities and threats
+You'll develop self-service reporting for product and development teams, by collecting and integrating data from various sources, including web analysis tools and internal databases","Available to start on August 22nd 2022
+Graduating in 2021- 2022 with a degree in a technical or analytical subject (such as Computer Science, Marketing Science, Statistics, Mathematics, Analytics, Economics)
+Experience solving problems with data querying using SQL, statistics and modelling in classes, projects or prior work experience
+Have strong analytical skills and self-motivation
+Skills in Tableau, R, Python are a bonus for data transformation, analysis and visualization
+Effective communication skills and the ability to engage with a variety of partners (e.g., internal, external, technical, non-technical people)","Do you want to power the future of travel? Are you looking for a Graduate Program that’ll enable you to make a positive impact, strengthen connections, and bridge divides across the world? Then come and help us to bring people together through travel technology, while jump-starting your career in Data Science, Analytics.
+We pave the route for our early careers talent to go far and fast with accelerated career development. By joining the 2022 Expedia Group Graduate Program as a Data Science, Analyst, you’ll complete two 6-month rotations and discover which part of travel technology excites you the most, before reaching your Destination Role with us.
+About the Graduate Program:
+Team Rotations: two 6-month rotations within different teams in the same office, to build knowledge of our business and to across Expedia Group divisions. Contribute to meaningful work that makes a positive impact on travel, all while advancing your career
+Onboarding: 1-week training that covers technical and professional skills, plus an introduction to Expedia Group
+Learning Series: communities, technology talks and regular workshops to build your technical and interpersonal skills
+Leadership Series: opportunities to ask questions directly to our leaders during events, and to learn about their career journeys
+Social Events and Networking: build your network with other Graduates on the program during regular socials and join our Inclusion Business Groups
+Support Network: mentorship from a dedicated structure of Buddies, Mentors, Managers, the Early Careers and the L&D teams
+Benefits: Leisure Travel & Wellness Reimbursement, Travel Discounts, Family & Friends Discounts, Employee Assistance Program
+RSUs: Restricted Stock Units
+Destination Role: after experiencing different teams during two rotations, select a preferred Destination Role with us
+What You’ll do:
+Travel is so much more than simply reaching your destination. Along the way you will make an immediate impact on reimagining travel by developing insightful reports on traveler trends which drive operational improvements in a way that serves our goal to bring the world within reach. From collaborating with internal partners and influencing business decisions, to AB testing hypotheses, there is no shortage of opportunities for technical innovation at Expedia Group – the sky’s the limit!
+You'll identify partner teams' key challenges, provide/prototype solutions, and help solve using statistical analysis and tools
+You'll work to decipher problems by identifying, and using, data sources, making reasonable assumptions, and then turn data into meaningful insights to help drive improvements for customers, for the business, and for our operations.
+You'll communicate insightful analyses findings and recommendations to support, influence and challenge business decisions to various levels of our leadership
+You'll make use of data visualization principles.
+You'll apply basic probabilistic thinking to business challenges.
+You'll have a good understanding of our domain (i.e. travel, e-commerce), business objectives and critical reasoning skills.
+You'll become a data specialist and the point of contact for data questions and insights
+You'll turn data-based findings and insights into hypotheses for AB testing
+You'll review engagement and conversion trends across the network, identify breaks in trends, underlying drivers, and surface opportunities and threats
+You'll develop self-service reporting for product and development teams, by collecting and integrating data from various sources, including web analysis tools and internal databases
+Who You are:
+We know that many candidates can be hesitant to apply for a job if they aren't sure that they meet all the criteria shared below. If you meet the start date/graduation criteria and you are interested in this role we encourage you to apply!
+Available to start on August 22nd 2022
+Graduating in 2021- 2022 with a degree in a technical or analytical subject (such as Computer Science, Marketing Science, Statistics, Mathematics, Analytics, Economics)
+Experience solving problems with data querying using SQL, statistics and modelling in classes, projects or prior work experience
+Have strong analytical skills and self-motivation
+Skills in Tableau, R, Python are a bonus for data transformation, analysis and visualization
+Effective communication skills and the ability to engage with a variety of partners (e.g., internal, external, technical, non-technical people)
+Next Steps:
+Apply now! Our dedicated early careers team will review your application and suitable applicants will be encouraged to complete an online assessment. If you pass, you'll be invited to a final interview day. Please let us know on your application if you require reasonable adjustments during the hiring process.
+Our Commitments:
+Expedia Group 2020 Global Impact Report
+Expedia Group 2020 Inclusion & Diversity Report
+Expedia Group has made commitments that will propel us forward on the path to progress, including our hiring target for women to occupy 50 percent of roles at all levels by the end of 2025, and 25 percent of U.S. external hires to come from racially and ethnically underrepresented groups by the end of 2021. We want to build lasting changes for future generations.
+About Expedia Group
+Expedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, Egencia®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™.
+© 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.",3.9
+Data Scientist,Pinterest,"1099 Stewart St, Seattle, WA 98101",,,,"Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love
+Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners
+Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development
+Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest","4+ years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data
+Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields
+Experience using machine learning and deep learning frameworks, such as PyTorch, TensorFlow or scikit-learn
+A scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output
+Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)
+Excellent communication skills and ability to explain learnings to both technical and non-technical partners
+A team player who's able to partner with cross-functional leadership to quickly turn insights into actions",,"About Pinterest:
+Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+As a Data Scientist you will shape the future of people-facing and business-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and up-level our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of Pinners, creators, advertisers and merchants around the world.
+What you'll do:
+Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love
+Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners
+Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development
+Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest
+What we're looking for:
+4+ years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data
+Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields
+Experience using machine learning and deep learning frameworks, such as PyTorch, TensorFlow or scikit-learn
+A scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output
+Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)
+Excellent communication skills and ability to explain learnings to both technical and non-technical partners
+A team player who's able to partner with cross-functional leadership to quickly turn insights into actions
+#LI-KP1
+Our Commitment to Diversity:
+At Pinterest, our mission is to bring everyone the inspiration to create a life they love—and that includes our employees. We're taking on the most exciting challenges of our working lives, and we succeed with a team that represents an inclusive and diverse set of identities and backgrounds.
+Not Specified
+0",4.2
+"data scientist (multiple openings) - Seattle, WA",Starbucks,,,,,"Education: BS+ with concentration in quantitative discipline - Stats, Math, Comp Sci, Engineering, Econ, Quantitative Social Science, or similar discipline
+Minimum of 3+ years industry experience in data science
+Strong background working with predictive and statistical modeling, machine learning and strong expertise in all phases of the modeling pipeline
+Experience building complex data sets from multiple data sources, both internally and externally.
+Strong SQL, database and ETL skills required including cleaning and managing data.
+Advanced competency and expertise in Python, R or some combination
+Ability to apply knowledge of multidisciplinary business principles and practices to achieve successful outcomes in cross-functional projects and activities
+Ability to educate others on statistical / machine learning methods
+Self-starter, attention to details and results orientated, able to work under minimal guidance.
+Proficient in communicating effectively with both technical and nontechnical stakeholders.
+Experience on Cloud platforms such as Azure, AWS, preferred",,,"Job Posting
+: Jan 13, 2022
+Job Posting End Date
+: Feb 12, 2022
+Location
+: US-WA-Seattle-Starbucks Support Center
+Is this role eligible for remote or hybrid work? : Yes-Hybrid
+Starbucks - Data Analytics
+Now Brewing – Data Scientist! #tobeapartner
+From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others.
+The data scientist will initially support COVID response at Starbucks. In this role you will leverage statistical analysis, forecasting methods, product development, data visualization, and storytelling. Day-to-day work will balance working as part of an enterprise-wide, cross-functional COVID response team, as well as evolving long-term infrastructure and resources that increase operational resiliency over time.
+As a data scientist, you will…
+Extract and transform data from multiple sources in preparation for exploratory data analysis, modeling, and reporting.
+Leverage predictive and inferential advanced statistical and machine learning techniques to solve business problems, including methods to surface uncertainty intervals to provide increased context.
+Transform model outputs into formats that are digestible to the end users through visualization, clear tables, and/or thoughtful presentations. Assist technical and non-technical end users in how to leverage and interpret the analysis.
+We’d love to hear from people with:
+Education: BS+ with concentration in quantitative discipline - Stats, Math, Comp Sci, Engineering, Econ, Quantitative Social Science, or similar discipline
+Minimum of 3+ years industry experience in data science
+Strong background working with predictive and statistical modeling, machine learning and strong expertise in all phases of the modeling pipeline
+Experience building complex data sets from multiple data sources, both internally and externally.
+Strong SQL, database and ETL skills required including cleaning and managing data.
+Advanced competency and expertise in Python, R or some combination
+Ability to apply knowledge of multidisciplinary business principles and practices to achieve successful outcomes in cross-functional projects and activities
+Ability to educate others on statistical / machine learning methods
+Self-starter, attention to details and results orientated, able to work under minimal guidance.
+Proficient in communicating effectively with both technical and nontechnical stakeholders.
+Experience on Cloud platforms such as Azure, AWS, preferred
+Join us and be part of something bigger. Apply today!",4
+Data Analyst II,Microsoft,"One Microsoft Way, Redmond, WA 98052",,,,"Build reporting and usage insights based on a holistic understanding of Windows, users and the business’ goals
+Define, generate, automate, and monitor KPI metrics for different aspects and segments of the Windows business (Consumer, Commercial and Education, OEM and Surface devices)
+Manipulate and analyze complex, high-volume, high-dimensionality data from varying sources using a variety of tools and data analysis techniques
+Partner with Business, Product & Finance stakeholders to build an actionable analytical learning plan and conduct analysis.
+Collaborate closely with Data Engineering and Data Sciences teams to incorporate their expertise into analysis and pass on requirements as necessary.
+Present insights and learnings to key stakeholders / executives, drive actions and impact
+Provide thought leadership on modern life based on the insights / learning from analyses
+Inform strategy through deep insights, cross team collaboration (with data engineering and data science) and impact-focused storytelling","2+ years of experience in analyzing large volumes of data, extracting insights processing large data sets using SQL or SQL-like scripting language
+Experience in processing and building visualizations using reporting tool as Power BI
+Excellent written and oral communication skills, particularly the ability to synthesize complex issues/scenarios into easy-to-understand concepts
+Action-oriented, self-motivated, agile, attending to detail and driven to think out-of-the-box
+Basic understanding of statistics
+Experience influencing product or business strategy with hands on application of data analytics
+Demonstrated ability to work in ambiguous situations and across organizational boundaries
+Ability to influence diverse audiences and build strong partnerships with stakeholders",,"Are you passionate about leveraging data to develop insights used to improve business & product strategies and customer experience? If yes, then IDEAs (Insights Data Engineering and Analytics) group is looking for qualified candidates like you to work on our Windows business.
+Our team plays a key role in providing data and analytics for Experiences & Devices Group and owns the end-to-end reporting and provides insights in weekly and monthly business reviews as well as in ad-hoc projects.
+Responsibilities
+Responsibilities:-
+Build reporting and usage insights based on a holistic understanding of Windows, users and the business’ goals
+Define, generate, automate, and monitor KPI metrics for different aspects and segments of the Windows business (Consumer, Commercial and Education, OEM and Surface devices)
+Manipulate and analyze complex, high-volume, high-dimensionality data from varying sources using a variety of tools and data analysis techniques
+Partner with Business, Product & Finance stakeholders to build an actionable analytical learning plan and conduct analysis.
+Collaborate closely with Data Engineering and Data Sciences teams to incorporate their expertise into analysis and pass on requirements as necessary.
+Present insights and learnings to key stakeholders / executives, drive actions and impact
+Provide thought leadership on modern life based on the insights / learning from analyses
+Inform strategy through deep insights, cross team collaboration (with data engineering and data science) and impact-focused storytelling
+Qualifications
+2+ years of experience in analyzing large volumes of data, extracting insights processing large data sets using SQL or SQL-like scripting language
+Experience in processing and building visualizations using reporting tool as Power BI
+Excellent written and oral communication skills, particularly the ability to synthesize complex issues/scenarios into easy-to-understand concepts
+Action-oriented, self-motivated, agile, attending to detail and driven to think out-of-the-box
+Basic understanding of statistics
+Experience influencing product or business strategy with hands on application of data analytics
+Demonstrated ability to work in ambiguous situations and across organizational boundaries
+Ability to influence diverse audiences and build strong partnerships with stakeholders
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",4.2
+Data Science Educator,RStudio,,,,"Profit sharing
+Health insurance
+Dental insurance
+401(k)
+Vision insurance
+401(k) matching","Facilitate weekly 1 hour online group sessions where students will share their data science project milestones.
+Meet with students online each week, in individual or group office hours, collecting questions ahead of time in a Slack or MS Teams channel.
+Create a positive, fun, and judgement free learning environment and encourage active participation. Where appropriate, you will provide students with useful feedback and tips on how to improve their R programming.","Provide product vision for software features, sharing pedagogical principles with your teammates.
+Experiment with other mentors to optimize the apprenticeship format.
+Review your writing regularly with fellow writers in a supportive and social culture that prizes clear writing.
+Help hire additional team members to expand our rapidly growing team.","Enjoy helping others reach their goals.
+Write clear prose that is a pleasure to read.
+Be eager to speak and code in front of students, but prefer to nudge students to try it themselves.
+Know R well and like to use the Tidyverse.
+Enjoy working in a startup-like environment with lots of autonomy and a strong sense of mission.
+Have a strong sense of empathy. You know how to explain technical concepts in a way that others will understand, you know how to make lessons enjoyable, and you can deliver feedback without demoralizing students.","RStudio creates great software that helps people understand data and make better decisions in real-world applications. Our core offering is an open source data science platform, and we aim to make it available to everyone, regardless of their economic means. We’re a Certified B Corporation®, which means that our open-source mission is codified into our corporate charter.
+About the Role
+We’re developing a new product currently in a private Beta to support RStudio’s mission of training the next generation of data scientists. We feel that doing good data science is similar to playing the piano: it is a skill that cannot be developed with traditional workshops and online courses alone. We’re helping learners develop their skills with a mentor-led, computer supported learning environment.
+We’re organized as a cross-functional team that involves product management, subject matter experts (educators), and engineers. This role will oversee the design, development, and delivery of educational content to students.
+We’ve had great success with early customers but we’re still rapidly iterating and experimenting in order to fully realize the product’s potential. Additionally, we have ambitious plans for scaling this product from dozens of users to thousands over the next year and you’ll be an integral part of making that happen. This team has all the excitement of a startup, but with the stability and work-life balance that comes from working at a profitable, mission-driven company.
+Things you will own
+As Data Science Educator, you will be responsible for helping employed professionals learn to do data science with R. You will:
+Write instructional materials for R users, maintaining a schedule that allows 15-20 hours per week of focused writing time. You will develop content for every step of the learning journey, from tutorials and code recipes, to practice exercises supported by gradethis code for automated feedback, to datasets cleaned and curated for students to use, to large scale data science projects that allow clients to apply what they learn as they learn it.
+Mentor small groups of adult learners as they complete apprenticeships with R. Each apprenticeship lasts about 12 weeks and guides a group of 5-7 learners through the tutorials, exercises, and projects that you and your team members will create. As a mentor, you will
+Facilitate weekly 1 hour online group sessions where students will share their data science project milestones.
+Meet with students online each week, in individual or group office hours, collecting questions ahead of time in a Slack or MS Teams channel.
+Create a positive, fun, and judgement free learning environment and encourage active participation. Where appropriate, you will provide students with useful feedback and tips on how to improve their R programming.
+Things you will help with
+You will collaborate frequently with Engineers, Designers, and other Educators to develop infrastructure that supports the learning process. You will have the opportunity to:
+Provide product vision for software features, sharing pedagogical principles with your teammates.
+Experiment with other mentors to optimize the apprenticeship format.
+Review your writing regularly with fellow writers in a supportive and social culture that prizes clear writing.
+Help hire additional team members to expand our rapidly growing team.
+Things you will bring to the team
+Ideal candidates will:
+Enjoy helping others reach their goals.
+Write clear prose that is a pleasure to read.
+Be eager to speak and code in front of students, but prefer to nudge students to try it themselves.
+Know R well and like to use the Tidyverse.
+Enjoy working in a startup-like environment with lots of autonomy and a strong sense of mission.
+Have a strong sense of empathy. You know how to explain technical concepts in a way that others will understand, you know how to make lessons enjoyable, and you can deliver feedback without demoralizing students.
+Things we will teach you
+It would be a bonus if you knew about these things as well, but we are happy to teach you:
+Modern models of how the brain learns, such as Cognitive Load Theory, Multimedia Learning Theory, mastery learning, spaced (or interleaved) practice, and active learning.
+Collaborative version control with Git and Github
+Enterprise data science, including the basics of: publishing data science artifacts, working in a server environment, selecting architecture for data scientists, customizing deployment methods, connecting to and working with databases, managing packages, and more.
+Further data science topics such as Shiny, Tidymodels, Python, and emerging technologies.
+About us:
+RStudio is a Public Benefit Corporation (PBC) and a Certified B Corporation®, which means that our open-source mission is codified into our charter, and that our corporate decisions balance the interests of the community, customers, employees, and shareholders.
+We welcome all talented colleagues and are committed to a culture that represents diversity in all its forms.
+We prioritize giving ourselves “focus time” to get deep work done. We minimize meetings and attempt to operate asynchronously.
+We are a learning organization and take mentorship and career growth seriously. We hope to learn from you and we anticipate that you will also deepen your skills, influence, and leadership as a result of working at RStudio.
+We operate under a unique sustainable business model: We have over 50% of our engineering dedicated to creating free and open source software. We are profitable and we plan to be around decades from now.
+Notable:
+100% distributed team (or come in to one of our offices in Seattle or Boston) with minimal travel
+Competitive compensation with great benefits including:
+medical/dental/vision insurance (100% of premiums covered)
+401k matching
+a home office allowance or reimbursement for a coworking space
+a profit-sharing system
+Flexible environment with a generous vacation policy
+RStudio is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities, and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.",
+Engineering Data Scientist,BOEING,,,,,"Modifies and analyzes complex data sets using analytics techniques such as machine learning, statistical analysis, mathematical optimization and simulation. Identifies modeling attributes and parameters. Applies algorithms to create descriptive, predictive or prescriptive models to achieve analysis and project deliverables.
+Investigates data characteristics, complexity, quality, and meaning. Through visualizations and summarizations, defines performance, identifies trends, outliers, and drivers.
+Prepares data for analysis, e.g. cleansing, conditioning, transforming, handling missing fields, identifying new feature variables and handling multi-variate data.
+Identifies or leads teammates in determining best-fit data science methodology (statistics, machine learning, optimization, simulation) given the data and business applications.
+Performs procedures in evaluation and validation of correctness of complex models and end-to-end deployment solutions. Leads evaluation and validation of team’s execution of models and analysis.
+Develops analysis requirements given standard to complex business objectives; determining decision support needs, data and performance requirements, and fit-for-purpose solutions.
+Monitors production and deployment with client teams. Determines decision support visualizations and reports, algorithms, models, dashboard, and tool documentation and training requirements.","5+ years of experience in SQL
+5+ years of experience in either R or Python
+3+ years of experience supporting Supply Chain, Managed Programs, or other Services business teams or domains
+1+ years of leading technology/analytics engagement for long term customer support","1+ years of experience in cloud technology (preferably Azure or GCP)
+Experience working with engineering teams and data
+Experience in developing end-to-end analytics solutions
+Experience in developing predictive aircraft health maintenance solutions","At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Join an exciting and growing data science team in performing complex data analysis of aviation data. As modern aircraft produce increasing amounts of data in operations and maintenance, analytics transforms that data into insights to improve performance, enable smarter services, and increase productivity. As a member of the Boeing Global Services (BGS) Engineering Analytics team, the candidate will work with a group of data scientists to analyze data and provide advanced analytics technologies. This work includes development, adaptation, and maturation of analytics capabilities for a wide range of applications across BGS business and engineering work streams affecting Boeing products and services.
+The BGS Data Sciences team is looking for a Lead Data Scientist with knowledge in fields such as machine learning techniques, advanced statistics, data engineering, and experienced with development of end-to-end analytics solutions to join their team in Seattle, WA.
+These skills will be used to solve challenging problems focused on delivering decision support capabilities to business and engineering work streams. This position will support customers in a variety of areas such as Managed Programs (CSP, REP, IMM, etc.), Modifications, and Training Services to imbue their work streams with data-driven insights by integrating technical and business data systems and helping to build longer term engagement plans.
+They will be responsible for leading cross-functional teams to determine, define, and deploy data analytics to meet business objectives, investigate and apply best fit methods and algorithms, validate results, and perform necessary data preparation and enhancements to models.
+Position Responsibilities:
+Modifies and analyzes complex data sets using analytics techniques such as machine learning, statistical analysis, mathematical optimization and simulation. Identifies modeling attributes and parameters. Applies algorithms to create descriptive, predictive or prescriptive models to achieve analysis and project deliverables.
+Investigates data characteristics, complexity, quality, and meaning. Through visualizations and summarizations, defines performance, identifies trends, outliers, and drivers.
+Prepares data for analysis, e.g. cleansing, conditioning, transforming, handling missing fields, identifying new feature variables and handling multi-variate data.
+Identifies or leads teammates in determining best-fit data science methodology (statistics, machine learning, optimization, simulation) given the data and business applications.
+Performs procedures in evaluation and validation of correctness of complex models and end-to-end deployment solutions. Leads evaluation and validation of team’s execution of models and analysis.
+Develops analysis requirements given standard to complex business objectives; determining decision support needs, data and performance requirements, and fit-for-purpose solutions.
+Monitors production and deployment with client teams. Determines decision support visualizations and reports, algorithms, models, dashboard, and tool documentation and training requirements.
+This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+The position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+Basic Qualifications (Required Skills/Experience):
+5+ years of experience in SQL
+5+ years of experience in either R or Python
+3+ years of experience supporting Supply Chain, Managed Programs, or other Services business teams or domains
+1+ years of leading technology/analytics engagement for long term customer support
+Preferred Qualifications (Desired Skills/Experience):
+1+ years of experience in cloud technology (preferably Azure or GCP)
+Experience working with engineering teams and data
+Experience in developing end-to-end analytics solutions
+Experience in developing predictive aircraft health maintenance solutions
+Typical Education & Experience:
+Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD+4 years' related work experience, Master+7 years' related work experience). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+Relocation:
+This position offers relocation based on candidate eligibility.
+Drug Free Workplace:
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+Shift:
+This position is for 1st shift.
+Union:
+This is a union-represented position.
+Equal Opportunity Employer:
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",3.9
+Design Researcher,Microsoft,"One Microsoft Way, Redmond, WA 98052",,,,"Partner closely with key stakeholders across design, engineering, data science, and leadership to establish trust and deliver actionable insights in a fast-paced, rapidly changing environment.
+Help develop and manage various listening channels (e.g., large surveys) to understand user sentiment, satisfaction, and perception.
+Develop creative methods to understand the complexity of our employees and become a subject matter expert in employee experience.
+Utilize both qualitative and quantitative research methods to collect and analyze user behaviors through in-depth interviews, surveys, benchmarking studies, and other data points.
+Prioritize effectively by identifying the most burning problems to solve.
+Advocate research findings to diverse audiences through memorable ways.","1-3+ years with mixed methods user experience research, design research, product research or equivalent (i.e., hands on experience) so that you have successes and failures to draw upon.
+A Master’s degree in HCI, cognitive or experimental psychology, sociology, business planning OR a BA/BS related to one of the above fields with significant academic or industry experience.
+Proficiency in quantitative or mixed methods to design, analyze, and present research (e.g., survey design and inferential statistical analysis).
+Experience across a variety of research techniques including in-depth interviews, usability studies, survey design, and more.
+Demonstrated agility, creativity, and growth mindset applied to large projects working collaboratively with other stakeholders.
+A portfolio that demonstrates solid research techniques and the ability to make a meaningful impact.
+Excellent communication skills (written and oral) and strong attention to visual details.
+A passion for articulating how you understand customer needs, and ability to influence others.",,"Do you want to be at the heart of Microsoft’s massive digital and cultural transformation? Are you passionate about people and want to work in a vibrant and inclusive Studio culture where Research and Design work closely together? We’re looking for a talented Researcher who is eager to learn, grow, and embody new ways of working. If you embrace growth mindset, have a track record of delivering results, and light up collaborating with other researchers, designers, product managers, and engineers, this is an awesome team to join. We are looking for diverse candidates whose background and experiences can help shape the future of employee experience at Microsoft.
+As a quantitative or mixed-methods Researcher on our Foundational Research team, you will be at the forefront of our efforts to understand the hybrid workplace. User experience is at the forefront of Microsoft's Future of Work effort. You will work with other Researchers and stakeholders from the broader orgs to develop innovative experiences and bring essential employee tasks together to help employees enjoy their lives at work.
+Responsibilities
+Partner closely with key stakeholders across design, engineering, data science, and leadership to establish trust and deliver actionable insights in a fast-paced, rapidly changing environment.
+Help develop and manage various listening channels (e.g., large surveys) to understand user sentiment, satisfaction, and perception.
+Develop creative methods to understand the complexity of our employees and become a subject matter expert in employee experience.
+Utilize both qualitative and quantitative research methods to collect and analyze user behaviors through in-depth interviews, surveys, benchmarking studies, and other data points.
+Prioritize effectively by identifying the most burning problems to solve.
+Advocate research findings to diverse audiences through memorable ways.
+Qualifications
+1-3+ years with mixed methods user experience research, design research, product research or equivalent (i.e., hands on experience) so that you have successes and failures to draw upon.
+A Master’s degree in HCI, cognitive or experimental psychology, sociology, business planning OR a BA/BS related to one of the above fields with significant academic or industry experience.
+Proficiency in quantitative or mixed methods to design, analyze, and present research (e.g., survey design and inferential statistical analysis).
+Experience across a variety of research techniques including in-depth interviews, usability studies, survey design, and more.
+Demonstrated agility, creativity, and growth mindset applied to large projects working collaboratively with other stakeholders.
+A portfolio that demonstrates solid research techniques and the ability to make a meaningful impact.
+Excellent communication skills (written and oral) and strong attention to visual details.
+A passion for articulating how you understand customer needs, and ability to influence others.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",4.2
+senior decision scientist - People Analytics Data Vizualization,Starbucks,,,,,"Data Visualization: 3-5 years’ experience with PowerBI, Tableau and/or D3.
+Data Preparation: 3-5 years’ experience working with SQL and cloud-based technologies (Azure, Databricks) to consolidate and summarize data, automate and build sustainable data pipelines, and has an eye for detail in QC and UAT.
+Programming Experience: 2-5 years in SQL, and R or Python
+Statistics/Modeling: Exposure and business-applicable experience in modeling & applying statistical techniques ( e.g., regression, t-tests, forecasting, anomaly detection)
+Education : MS preferred with concentration in quantitative discipline - Statistics, Math, Comp Science, Engineering, Econ, Quantitative Social Science or similar discipline",,,"Job Posting
+: Jan 27, 2022
+Job Posting End Date
+: Feb 11, 2022
+Location
+: US-WA-Seattle-Starbucks Support Center
+Is this role eligible for remote or hybrid work? : Yes-Remote
+Starbucks - Business Strategy
+From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others.
+This job contributes to Starbucks success by guiding business decisions through data & visualizations that deliver stakeholder outcomes. Our goal is to t ranslate research into usable data products & self-service tools that democratizes data across the entire Starbucks enterprise. You will be an expert in the application of research/statistics and democratizing data that supports Starbucks Global lines of business.
+As a Starbucks Decision Scientist Sr, you will be focused on embedding analytics into business units to empower data driven decision making, ultimately helping us make decisions better. Proficient in communication, data presentation, and data engineering. Ability to build or maintain analytics solutions (from the ETL to data visualization) required. Models and acts in accordance with Starbucks guiding principles.
+As a Decision Scientist Sr, you will…
+Enterprise Focus : Can take multiple projects, data domains (e.g., HR & customer), and dashboards and combine them into a coherent and enterprise focused visualization. The goal is to be able to combine, and up-level metrics and visualizations in a way that tells a story such that the whole is greater than the sum of its parts.
+Data Visualization : Can create beautiful, easily understood visuals that tell a story and have an enterprise focus. Possesses a strong visualization acumen and the ability to produce relevant, standard, or custom information (reports, charts, graphs and tables) from structured data sources.
+DMB (decisions made better): Help us make decisions better, by democratizing business focused data driven decision making tools: dashboards and data products.
+Democratize the power of data science : On the data visualization team we work with data and decision scientists with the goal of democratizing model-based information to decision makers. Models can be complex and sometimes difficult to know how to action on, however they are often times the most powerful ways to make decisions as they can predict future outcomes. The goal of this position is to simplify the assumptions and make this data readily available to decision makers.
+Data Obsessed : understand complex areas of the Starbucks business (retail, HR, customer) and work with stakeholders to determine the most impactful KPIs and data visualizations.
+Self Service: Augmented analytics, acceleration tools, and cube technologies will all be future tools we work with. A desire to learn more about new technologies in this space is a must.
+Statistical Rigor : Applies basic statistical concepts and descriptive statistics to understand and describe relationships in data
+We’d love to hear from people with:
+Data Visualization: 3-5 years’ experience with PowerBI, Tableau and/or D3.
+Data Preparation: 3-5 years’ experience working with SQL and cloud-based technologies (Azure, Databricks) to consolidate and summarize data, automate and build sustainable data pipelines, and has an eye for detail in QC and UAT.
+Programming Experience: 2-5 years in SQL, and R or Python
+Statistics/Modeling: Exposure and business-applicable experience in modeling & applying statistical techniques ( e.g., regression, t-tests, forecasting, anomaly detection)
+Education : MS preferred with concentration in quantitative discipline - Statistics, Math, Comp Science, Engineering, Econ, Quantitative Social Science or similar discipline
+Join us and be part of something bigger. Apply today!",4
+Data Scientist,Amazon.com Services LLC,,,,,"Bachelor's Degree
+1+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)
+Bachelor or Master's degree in highly quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+Experience applying various machine learning techniques, and understanding the key parameters that affect their performance.
+Experience developing experimental and analytic plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships.
+Have a history of building systems that capture and utilize large data sets in order to quantify performance via metrics or KPIs.
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.* Experienced in using multiple data science methodologies to solve complex business problems.
+Experienced in handling large data sets using SQL and databases in a business environment.
+Excellent verbal and written communication.
+Strong troubleshooting and problem solving skills.
+Thrive in a fast-paced, innovative environment.","Master's degree in Statistics, Applied Math, Operations Research, Economics, or a related quantitative field with at least 4+ years of working experience as a Data Scientist.
+Experienced in writing academic-styled papers for presenting both the methodologies used and results for data science projects.",,"Bachelor's Degree
+1+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)
+Bachelor or Master's degree in highly quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+Experience applying various machine learning techniques, and understanding the key parameters that affect their performance.
+Experience developing experimental and analytic plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships.
+Have a history of building systems that capture and utilize large data sets in order to quantify performance via metrics or KPIs.
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.* Experienced in using multiple data science methodologies to solve complex business problems.
+Experienced in handling large data sets using SQL and databases in a business environment.
+Excellent verbal and written communication.
+Strong troubleshooting and problem solving skills.
+Thrive in a fast-paced, innovative environment.
+Please visit https://www.amazon.science for more information
+Job summary
+At Alexa Shopping, we strive to enable shopping in everyday life. We allow customers to instantly order whatever they need, by simply interacting with their Smart Devices such as Amazon Show, Spot, Echo, Dot or Tap. Our Services allow you to shop, no matter where you are or what you are doing, you can go from 'I want that' to 'that's on the way' in a matter of seconds. We are seeking the industry's best to help us create new ways to interact, search and shop. Join us, and you'll be taking part in changing the future of everyday life.
+We are seeking a Data Scientist to be part of the NLU science team for Alexa Shopping. This is a strategic role to shape and deliver our technical strategy in developing and deploying NLU, Machine Learning solutions to our hardest customer facing problems. Our goal is to delight customers by providing a conversational interaction. These initiatives are at the heart of the organization and recognized as the innovations that will allow us to build a differentiated product that exceeds customer expectations. We're a high energy, fast growth business excited to have the opportunity to shape Alexa Shopping NLU is defined for years to come. If this role seems like a good fit, please reach out, we'd love to talk to you.
+This role requires working closely with business, engineering and other scientists within Alexa Shopping and across Amazon to deliver ground breaking features. You will lead high visibility and high impact programs collaborating with various teams across Amazon. You will work with a team of Language Engineers and Scientists to launch new customer facing features and improve the current features.
+Master's degree in Statistics, Applied Math, Operations Research, Economics, or a related quantitative field with at least 4+ years of working experience as a Data Scientist.
+Experienced in writing academic-styled papers for presenting both the methodologies used and results for data science projects.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",3.5
+"Supply Chain, Data & Applied Scientist",Microsoft,"One Microsoft Way, Redmond, WA 98052",,,,"Create metrics, dashboards, and analytics that measure Service & Repair business performance and optimization
+Support the Business Team on the Financial Rhythms of Business (ROB) and enable continues process improvement and simplification of the rhythm.
+Financial Modeling & Analysis: Create/manage end to end financial modeling to support consolidated Planning activities, and monthly analysis of specific costs on the P&L. Manage Cash Flow analysis, KPI process, and Long Range Plan central modeling.
+Drive insightful monthly financial reporting & analysis through preparation of key deliverables for monthly Close, Planning (Forecast, Target, Budget, etc.) within organizational and corporate timelines.
+Develop constructive partnerships with Corp EG Finance teams providing insights from the Area and advocating for the Area addressable saving opportunities.
+Perform rich analytics against various data sets using R, Python, Power BI, and T-SQL.
+Accountable for high quality analytics & visualizations that drive business impact & positive outcomes.","Bachelor of Science degree in quantitative fields such as Engineering, Computer Science, and Statistics or equivalent work experience.
+7+ years combined experience: Data Science, Program Management, Software Development, technical/engineering role(s) including demonstrated expertise in R/Python, PowerBI, or SQL
+5+ years of experience with supply chain analytics and Financial modeling techniques","Experience with big data technologies such as Azure Data Lake, Databricks, Hive, Spark, or Scope
+Data science knowledge and experience with Azure Machine Learning
+Experience developing and deploying ML models to solve real-world problems.
+Experience with SAP ECC, OER, IBP modules is desirable.
+Experience in High-tech Supply Chain, Reverse Logistics, or Service Parts industry is a plus","Are you passionate about the Cloud and looking for an opportunity to make a long-term impact on Microsoft’s future by delivering the best Cloud with the best customer experience? If so, this is your new team! This is a fabulous opportunity to join a dynamic team and influence the way one of the world’s largest and fastest growing Cloud Infrastructure environment is built and supported.
+Microsoft’s Azure Hardware Systems & Infrastructure is the engine that delivers capacity for all Microsoft cloud services predictably through intelligent systems driven by continuous learning and a world class organization. Our vision is to empower customers to achieve more by delivering cloud capacity differentiated at scale. This organization focuses on smart growth with an emphasis on automation, data-driven process engineering, operational excellence, and environmental sustainability. We deliver the core infrastructure and foundational technologies for Microsoft's all online businesses including Azure, Exchange, Bing, OneDrive, and Xbox branded services. Our infrastructure is comprised of a global datacenter portfolio that is managed by highly talented subject matter experts working to deliver these services.
+Within Azure Hardware Systems & Infrastructure, the Spares and Warranty team is responsible for ensuring that the right spare parts are in the right place, at the right time in support of delivering global capacity requirements.
+Join a new team focused on enabling a cross-functional service & repair scorecard & related rhythm of the business review cadence. The team’s mission is to define, implement, and leverage a balanced Service & Repair scorecard view to drive measurable progress towards achieving world-class service & repair health and efficiency.
+The ideal candidate will be passionate about data, experienced in a full range of software/data engineering skills, and has a bias for delivering incremental value using an iterative, agile approach, while guiding the team towards a well-defined long-term architecture.
+Responsibilities
+Create metrics, dashboards, and analytics that measure Service & Repair business performance and optimization
+Support the Business Team on the Financial Rhythms of Business (ROB) and enable continues process improvement and simplification of the rhythm.
+Financial Modeling & Analysis: Create/manage end to end financial modeling to support consolidated Planning activities, and monthly analysis of specific costs on the P&L. Manage Cash Flow analysis, KPI process, and Long Range Plan central modeling.
+Drive insightful monthly financial reporting & analysis through preparation of key deliverables for monthly Close, Planning (Forecast, Target, Budget, etc.) within organizational and corporate timelines.
+Develop constructive partnerships with Corp EG Finance teams providing insights from the Area and advocating for the Area addressable saving opportunities.
+Perform rich analytics against various data sets using R, Python, Power BI, and T-SQL.
+Accountable for high quality analytics & visualizations that drive business impact & positive outcomes.
+Qualifications
+Basic Qualifications:
+Bachelor of Science degree in quantitative fields such as Engineering, Computer Science, and Statistics or equivalent work experience.
+7+ years combined experience: Data Science, Program Management, Software Development, technical/engineering role(s) including demonstrated expertise in R/Python, PowerBI, or SQL
+5+ years of experience with supply chain analytics and Financial modeling techniques
+Preferred Qualifications:
+Experience with big data technologies such as Azure Data Lake, Databricks, Hive, Spark, or Scope
+Data science knowledge and experience with Azure Machine Learning
+Experience developing and deploying ML models to solve real-world problems.
+Experience with SAP ECC, OER, IBP modules is desirable.
+Experience in High-tech Supply Chain, Reverse Logistics, or Service Parts industry is a plus
+Ability to meet Microsoft, customer and/or government security screening requirements is required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+Microsoft is an Equal Opportunity Employer (EOE) and strongly supports diversity in the workplace
+#CSCPJOBS",4.2
+Project Selection Analyst,BOEING,,"$124,000 - $222,000 a year",,,"Design Business Intelligence solutions using dashboards, metrics and reports utilizing standard technologies and methodologies that meet business objectives.
+Combine programming, SQL skills and business expertise to deliver efficient and scalable Business Intelligence solutions to improve project selection pipeline development.
+Assemble large, complex data sets to continue to improve our portfolio development business process.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and other technologies.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Consolidate data from multiple sources and provide a single view for the leadership team. Preferred candidate will be able to propose solutions to existing problems using current data and provide new views for information.","Bachelor's degree (or equivalent)
+3+ years of experience in leading projects in a cross-functional environment
+3+ years of experience collaborating across functions and organizations
+Financial Acumen with experience understanding and applying financial metrics to assess the viability of business cases
+Ability to think creatively with a solution-oriented mindset
+Experience in data science or data analytics","Direct experience with the Commercial Parts business within the Aerospace Industry
+Strong understanding of statistical concepts
+Familiarity with existing data sources including SAP/Hana, ERPMART, TERADATA, BEDW, CDW, NWP/Cognos
+Experience in Python and/or R
+Ability to create/improve processes and procedures to increase efficiencies
+Ability to operate with a strategic mindset and tactical execution
+The ability to work in a team environment and interact effectively with team members from non-technical disciplines.","At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing Global Services (BGS) is seeking a Mid Level Analyst (Level 3) to join our team.
+Leads integration of sales and marketing objectives, business opportunities and risks, market trends and drivers, constraints and company goals to develop sales initiatives and market analyses. Devises, consults on, and evaluates complex scenarios to shape airplane market strategies or forecasts. Reviews and leads synthesis and articulation of market needs to leadership and external parties insuring alignment across sales regions, programs, finance and other stakeholders. Consults on production scenarios based on an evaluation of the market and customers for new business. Identifies market and selling trends to provide insight on aviation market and products for both internal and external audiences. Reviews the assessment of the effects of marketplace forces on the company's business posture and strategic implications. Develops and consults on complex, broad analytical models to respond to internal business challenges and external opportunities.
+This is a hybrid position that allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+Position Responsibilities:
+Design Business Intelligence solutions using dashboards, metrics and reports utilizing standard technologies and methodologies that meet business objectives.
+Combine programming, SQL skills and business expertise to deliver efficient and scalable Business Intelligence solutions to improve project selection pipeline development.
+Assemble large, complex data sets to continue to improve our portfolio development business process.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and other technologies.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Consolidate data from multiple sources and provide a single view for the leadership team. Preferred candidate will be able to propose solutions to existing problems using current data and provide new views for information.
+The position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+Basic Qualifications (Required Skills/Experience):
+Bachelor's degree (or equivalent)
+3+ years of experience in leading projects in a cross-functional environment
+3+ years of experience collaborating across functions and organizations
+Financial Acumen with experience understanding and applying financial metrics to assess the viability of business cases
+Ability to think creatively with a solution-oriented mindset
+Experience in data science or data analytics
+Preferred Qualifications (Desired Skills/Experience):
+Direct experience with the Commercial Parts business within the Aerospace Industry
+Strong understanding of statistical concepts
+Familiarity with existing data sources including SAP/Hana, ERPMART, TERADATA, BEDW, CDW, NWP/Cognos
+Experience in Python and/or R
+Ability to create/improve processes and procedures to increase efficiencies
+Ability to operate with a strategic mindset and tactical execution
+The ability to work in a team environment and interact effectively with team members from non-technical disciplines.
+Typical Education/ Experience:
+Education/experience typically acquired through advanced technical education (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD, Master+3 years' related work experience, 9 years' related work experience, etc.)
+Relocation:
+This position is located in a location that does not offer relocation. Candidates must live in the immediate area or relocate at their own expense.
+Drug Free Workplace:
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+Shift: 1
+Salary: $124,000 - $222,000
+Equal Opportunity Employer:
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",3.9
+Data Analyst / Data Analyst Sr,Seattle Childrens Hospital,,,,,"Bachelor's degree in Health Science, Computer Science, Math, Business or related field, or equivalent combination of education and experience/technical training that demonstrates technical competency.
+Minimum two (2) years experience in progressively more responsible work as a data analyst, developer or equivalent, preferably in a healthcare setting.
+Experience in use of data visualization for non-technical audiences
+Minimum of 2 years in relevant experiece in data analysis","Experience with healthcare analytics
+Experience with data visualization tools (e.g. Tableau, Power BI)
+Experience with SQL, R/Python",,"Overview:
+Supports the Hospital and Enterprise Analytics's vision, mission, and strategic initiatives by using technical expertise to design, create and develop analytic solutions. The incumbent facilitates gathering business requirements, and provides knowledge in business/clinical processes, analytical expertise, by working with key stakeholders, end users and project team members. This position identifies and resolves issues throughout the development of analytical solutions, and participates in identifying opportunities for continuous improvement in workflow processes. Primary responsibility is the design, creation and deployment of analytical solutions for key stakeholders within the SCH organization. The incumbent is responsible for participating on project teams, and designs and implements analytic solutions, including reports, dashboards, and views from a wide range of existing data sources, and participates in evaluating and optimizing these solutions. The incumbent also participates in the assurance of the data integrtiy for current and future use in strategic initiatives, continuous quality improvement efforts and hospital goals.
+#LI-HW1
+Requirements
+Required Education/Experience:
+Bachelor's degree in Health Science, Computer Science, Math, Business or related field, or equivalent combination of education and experience/technical training that demonstrates technical competency.
+Minimum two (2) years experience in progressively more responsible work as a data analyst, developer or equivalent, preferably in a healthcare setting.
+Experience in use of data visualization for non-technical audiences
+Minimum of 2 years in relevant experiece in data analysis
+Required Credentials: - N/APreferred:
+Experience with healthcare analytics
+Experience with data visualization tools (e.g. Tableau, Power BI)
+Experience with SQL, R/Python
+Covid-19 Vaccination
+In accordance with Washington state law, Seattle Children's requires that all employees be fully vaccinated against COVID-19. All offers are contingent and your vaccine status will be verified at onboarding.
+Our Commitment to Diversity
+Our community welcomes diverse experiences, backgrounds, and thoughts as this is what drives our spirit of inquiry and allows us to better connect with our increasingly diverse patients and families. Our organization recruits, employs, trains, compensates, and promotes without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+The people who work at Seattle Children's are members of a community that seeks to respect and celebrate all the qualities that make each of us unique. Each of us is empowered to be ourselves within this community, which cultivates and promotes equity, diversity, and inclusion at all levels.
+Seattle Children's is proud to be an Equal Opportunity Workplace and Affirmative Action Employer.",3.9
+AI/ML - Data Engineer ML-SEE,Apple,,,,,Experience in working with remote cross-functional teams and leads across global locations,,,"Summary
+Posted: Jan 26, 2022
+Weekly Hours: 40
+Role Number:200336074
+Would you like to play a part in ensuring the quality of groundbreaking technology for large scale systems, big data, and artificial intelligence? Drive the quality of the Siri user experience and work with the people who built the intelligent assistant that helps millions of people get things done — just by asking? We’re looking for exceptional data engineers who are passionate about our product and values; who love working with data at scale; and who are committed to that hard work necessary to continuously improve. You will be expected to optimally partner with upstream engineering teams and downstream analytical, ML and product consumers.
+Key Qualifications
+Experience working with Spark and other distributed data technologies for building efficient & large scale data pipelines.
+Programming efficiency and hands on experience in Scala/Java or Python. Software engineering rigor and ability to write elegant, modularized and well tested code.
+Experience required in building data processing pipelines curating data for variety of stakeholders
+Experience in schema design and data modeling, SQL skills to analyze and explore data, identify patterns and draw insights.
+Strong communication and collaboration skills. Ability to work in a cross functional environment across multiple stakeholders and convert abstract requirements into concrete deliverables.
+Description
+Partner closely with machine learning engineers, data scientists, analysts, software engineers and researchers to build reliable, distributed data pipelines and intuitive data products that feed into machine learning models, analytics, research, thereby allowing our stakeholders to easily leverage data in a self-served manner. And in using this data, you will help drive an efficient utilization of tools and processes, achieving the right balance of evaluation coverage and time invested, to deliver a perfect Siri experience. You will develop new and creative methodologies to evaluate and improve Siri, in order to execute and deliver feedback to engineering partners.
+Education & Experience
+A Bachelor's or Master's in CS, Engineering, Math, Statistics, or a related field, or equivalent practical experience in data engineering.
+Additional Requirements
+Experience in working with remote cross-functional teams and leads across global locations",4.2
+Data Scientist - Shipping,eBay Inc.,,,,"Health insurance
+Parental leave
+Sabbatical","Using machine learning to determine item delivery dates
+Improving how fast delivery impacts product search and seller conversions
+Applying machine learning globally to improve shipping speed and quality of service.","You will be directly responsible for improving eBay's shipping science.
+Design and implement end to end solutions using machine learning and AI, improving efficiency and user experience for buyers and sellers.
+Conduct experiments and evaluate the performance of the models, investigate false positive/false negatives and implement continuous improvements to retail standards.
+Collaborate with other researchers, engineers, and product teams to develop strategic and tactical enhancements to our shipping and trust platforms.
+Communicate your methodology and results to a community of researchers, developers, analysts, and product managers working on a number of related technologies.
+Work with data scientists, engineers, and cross functional teams to produce end-to-end production-ready solutions.
+Maintain responsibility for quality, performance, scalability, and reliability.
+Estimate effort, build research and development plans, and prioritize work according to the needs of the business.
+Provide technical leadership and mentoring to other team members.","Strong mathematical, statistical, and scientific modeling skills.
+Experience in predictive analytics, statistical modeling and coding.
+Proficiency in SQL and handling large datasets.
+Proficiency in Python or R.
+Familiarity with Hadoop, Spark, and related technologies is a plus.
+Strong interpersonal skills and an appreciation of diversity in teamwork","Want to help shape the future of global commerce? Improve as a data scientist? Work on interesting projects with high business impact? Join the eBay Shipping Science team.
+Here are some of the problems we are working on:
+Using machine learning to determine item delivery dates
+Improving how fast delivery impacts product search and seller conversions
+Applying machine learning globally to improve shipping speed and quality of service.
+We are passionate about building amazing platforms that support the growth of eBay's market share, and we are looking for top-notch data scientists who want to build scalable, business critical systems.
+Responsibilities
+You will be directly responsible for improving eBay's shipping science.
+Design and implement end to end solutions using machine learning and AI, improving efficiency and user experience for buyers and sellers.
+Conduct experiments and evaluate the performance of the models, investigate false positive/false negatives and implement continuous improvements to retail standards.
+Collaborate with other researchers, engineers, and product teams to develop strategic and tactical enhancements to our shipping and trust platforms.
+Communicate your methodology and results to a community of researchers, developers, analysts, and product managers working on a number of related technologies.
+Work with data scientists, engineers, and cross functional teams to produce end-to-end production-ready solutions.
+Maintain responsibility for quality, performance, scalability, and reliability.
+Estimate effort, build research and development plans, and prioritize work according to the needs of the business.
+Provide technical leadership and mentoring to other team members.
+Experience
+Strong mathematical, statistical, and scientific modeling skills.
+Experience in predictive analytics, statistical modeling and coding.
+Proficiency in SQL and handling large datasets.
+Proficiency in Python or R.
+Familiarity with Hadoop, Spark, and related technologies is a plus.
+Strong interpersonal skills and an appreciation of diversity in teamwork
+Benefits are an essential part of your total compensation for the work you do every day. Whether you’re single, in a growing family, or nearing retirement, eBay offers a variety of comprehensive and competitive benefit programs to meet your needs. Including maternal & paternal leave, paid sabbatical, and plans to help ensure your financial security today and in the years ahead because we know feeling financially secure during your working years and through retirement is important.
+Here at eBay, we love creating opportunities for others by connecting people from widely diverse backgrounds, perspectives, and geographies. So, being diverse and inclusive isn’t just something we strive for, it is who we are, and part of what we do each and every single day. We want to ensure that as an employee, you feel eBay is a place where, no matter who you are, you feel safe, included, and that you have the opportunity to bring your unique self to work.
+To learn about eBay’s Diversity & Inclusion click here:
+https://www.ebayinc.com/company/diversity-inclusion/
+#LI-JS5
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible. Jobs posted with location as ""Remote - United States (Excludes CO, HI, NM)"" excludes Colorado, Hawaii and New Mexico.",3.9
+Data Scientist - TikTok Ads,TikTok,,,,,,,,"TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+About The Tiktok Monetization Product Data Science Team
+We're the TikTok Monetization Products data science team, who enables and champions data driven decision making. Our Vision is to become the world class data science team, where data is used rigorously to drive all decision making. Our Mission is to drive monetization and sustainable revenue growth for TikTok through data science.
+Responsibilities:
+1. Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+2. Build and prototype analysis pipelines iteratively to provide insights at scale.
+3. Develop comprehensive knowledge of Tiktok data structures and metrics, advocating for changes where needed for product development.
+Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
+4. Research and develop analysis, forecasting, and optimization methods to improve the quality of Tiktok ads products.
+1. Master's degree in a quantitative discipline (e.g., Statistics, Operations Research, 2. Economics, Computer Science, Mathematics, Physics) or equivalent practical experience.
+3. 5-7 years of relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.
+4. Experience with statistical software (e.g. R, Python, MATLAB) and database languages (e.g. SQL)
+4. Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.
+6. Demonstrated skills in selecting the right statistical tools given a data analysis problem. Effective written and verbal communication skills.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.",3.5
+Research Analyst,Mathematica Policy Research,,"$60,000 - $100,000 a year",,"Health insurance
+Employee stock ownership plan","Master’s degree or Bachelor’s degree with commensurate experience
+Excellent communication skills including the ability to make complex information understandable to many audiences with various types and levels of subject matter and technical expertise
+Understanding of measurement and evaluation; ability to adapt methods to stakeholders’ capacities and needs
+Ability to identify and collect data, and perform quantitative and qualitative data analysis
+Ability to assess the needs of client’s programs and develop plans to address those needs, consistent with adult learning principles
+Ability to use evidence to inform decision making or make concrete recommendations
+Ability to identify and integrate equity strategies into research and evaluation design, data collection, interpretation, and reporting
+Strong interpersonal skills, including ability to deal tactfully with clients and stakeholders, engage with diverse partners, and facilitate joint problem solving
+Excellent oral and written communication skills, including for non-technical audiences
+Prior experience working with/in federal, state, or local agencies
+Work with/in agencies serving marginalized communities is preferred
+Bachelor’s degree required; master’s degree preferred",,,"Position Description:
+Mathematica applies expertise at the intersection of data, methods, policy, and practice to improve well-being around the world. We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and enhance understanding using data science and analytics. Mathematica offers our employees competitive salaries, and a comprehensive benefits package, as well as the advantages of being 100 percent employee owned. As an employee stock owner, you will experience financial benefits of ESOP holdings that have increased in tandem with the company’s growth and financial strength. You will also be part of an independent, employee-owned firm that is able to define and further our mission, enhance our quality and accountability, and steadily grow our financial strength. Read more about our benefits here: https://www.mathematica.org/career-opportunities/benefits-at-a-glance
+We are seeking Research Analysts to contribute to a variety of research, analytic, survey, and operational activities within our health, human services and international units that support evidence-based decision making in areas such as U.S. health care policy, program operations, education, early childhood, labor, family support, disability, nutrition, just to name a few. Research Analysts partner with researchers and other staff to design and execute user-focused evaluations and other measurement and learning efforts that help answer pressing research questions and translate findings into actionable lessons and recommendations.
+We seek candidates that will thrive in a collaborative, team-based environment that prioritizes analytical rigor, critical thinking, and a client-centered approach. This role is ideal for individuals with strong research and analytical skills, a commitment to using data and evidence to drive change and an interest in above listed policy areas and who enjoy working in a collaborative environment that emphasizes quality, rigor, and critical thinking.
+Responsibilities may vary a little within our different units but primarily will include the following:
+Working on interdisciplinary, cross-office research teams to design and implement evaluations and a range of measurement and learning efforts using a mix of quantitative and qualitative methods; you will have the opportunity to contribute to and grow your skills in impact evaluation, strategy and portfolio reviews, performance measurement, dashboard development for multi-project initiatives, and a range of other methods
+Conducting literature reviews, landscape scans, and background research to inform evaluation design, help “connect the dots” between our research and the field, and generate findings that are grounded in context and build on what is known
+Developing survey instruments, focus group discussion guides, and in-depth interview guides for a variety of stakeholders, from the ultimate beneficiaries of the programs we evaluate, such as women and girls, to those participating in and implementing these programs on the ground, such as teachers, farmers, and healthcare workers, to those overseeing these programs, such as development partner staff and government officials
+Overseeing local partners conducting quantitative and qualitative data collection (including supporting efforts to pilot and refine instruments, leading training sessions for data collectors, training data quality observers, and supporting other data quality assurance efforts)
+Conducting in-depth analysis of quantitative and qualitative data
+Working with project teams to develop reports, data visualizations, policy briefs, and slide decks that share our results and analysis, as well as action-oriented lessons and recommendations, with a range of audiences; support and participate in meetings, presentations, and learning workshops that facilitate discussion of our results and their implications
+Supporting the growth of Mathematica by contributing to proposals and other business development efforts
+Position Requirements:
+Master’s degree or Bachelor’s degree with commensurate experience
+Excellent communication skills including the ability to make complex information understandable to many audiences with various types and levels of subject matter and technical expertise
+Understanding of measurement and evaluation; ability to adapt methods to stakeholders’ capacities and needs
+Ability to identify and collect data, and perform quantitative and qualitative data analysis
+Ability to assess the needs of client’s programs and develop plans to address those needs, consistent with adult learning principles
+Ability to use evidence to inform decision making or make concrete recommendations
+Ability to identify and integrate equity strategies into research and evaluation design, data collection, interpretation, and reporting
+Strong interpersonal skills, including ability to deal tactfully with clients and stakeholders, engage with diverse partners, and facilitate joint problem solving
+Excellent oral and written communication skills, including for non-technical audiences
+Prior experience working with/in federal, state, or local agencies
+Work with/in agencies serving marginalized communities is preferred
+Bachelor’s degree required; master’s degree preferred
+One of Mathematica’s core values is a deep commitment to diversity, equity, and inclusion. Our research is more robust because it is informed by a variety of diverse perspectives, and our mission to improve societal well-being is strengthened by a greater understanding of issues and challenges facing the populations we serve. Mathematica’s ongoing commitment to diversity and inclusion is woven into our everyday actions, policies, and practices. We are dedicated to maintaining a work environment in which everyone is treated with respect and dignity. We offer Employee Resources Groups on a variety of topics, local diversity and inclusion activities in each office, and a Diversity council.
+Various federal agencies with whom we contract require that staff successfully undergo a background investigation or security clearance as a condition of working on the project. If you are assigned to such a project, you will be required to obtain the requisite security clearance.
+We will begin actively recruiting for this position in late 2021/early 2022.
+Available locations: Washington, DC; Princeton, NJ; Cambridge, MA; Woodlawn, MD; Chicago, IL; Ann Arbor, MI; Oakland, CA; Seattle, WA
+In accordance with Executive Order 14042 and its implementing guidelines, all Mathematica employees must provide documentation that they have been fully vaccinated or obtain an accommodation through Human Resources by providing documentation from a licensed health care provider that they are unable to be vaccinated against COVID-19 because of a disability (which would include medical conditions) or provide an attestation that they are entitled to an accommodation because of a sincerely held religious belief, practice, or observance.
+This position offers an anticipated annual base salary range of $60,000-$100,000.
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.",3.8
+R&D Statistician,Johnson & Johnson Family of Companies,"1701 Minor Ave, Seattle, WA 98101",,,,"Use a combination statistical learning methods with machine learning techniques to build and implement a real-time measurement system for surgeon/hospital performance for both internal and external presentation
+Develop statistical models to predict clinical and economic outcomes, and performance improvement
+Develop sophisticated key performance indicators to measure improvement related to clinical outcomes
+Identify and connect new data sources to develop an improving learning measurement system
+Measure the effect of educational training, and other quality improvement healthcare solutions
+Implement internal quality control systems","Bachelor's degree in statistics, applied math, operations research, or econometrics
+Minimum of 4+ years of proven experience doing statistical modeling, and delivering quality products
+Strong understanding of statistical inference foundations
+Good command of R
+Comfortable using SQL
+Familiarity using Gitlab, and R Markdown
+Good use of visualization tools for storytelling","Master's degree in statistics, applied math, operations research, or econometrics
+Experience in healthcare industry
+Proficient in programming in R, and Python
+Experience using Bayesian inference on applications","Johnson and Johnson Medical Device Companies is recruiting for a R&D Statistician located in Seattle, WA or remotely within the United States!
+The Johnson & Johnson Medical Devices Companies have been working to make surgery better for more than a century. With substantial breadth and depth in surgical technologies, orthopedic and interventional solutions, we aspire to improve and enhance medical care for people worldwide. Together, we are working to shape the future of health through differentiated products and services.
+J&J is hiring a R&D Statistician to work on measuring healthcare surgical outcome variability and the development and implementation of real-time monitoring focusing on surgeon and hospital clinical and economic improvement, learning curve, and outlier detection. Complex data sets include surgeon performance metrics extracted from operative video (e.g., operative time, task completion time, general performance metrics) along with hospital Electronic Health Records and big data Real-World Data (such as Medicare, private insurance claims, aggregate hospital billing data, and registry data) and ergonomic and clinical studies. Projects will include measuring surgeon improvement and healthcare improvement interventions including simulation, practice labs, and decision support solutions. In addition, they will evaluate the impact of the introduction of new technology such as decision support, medical devices, and new surgical approaches.
+The candidate will be responsible for applying statistical learning methods in combination with machine learning techniques to facilitate collaboration with researchers, data scientists, software engineers, and other specialists focusing on measuring surgeon/hospital improvement.
+Responsibilities:
+Use a combination statistical learning methods with machine learning techniques to build and implement a real-time measurement system for surgeon/hospital performance for both internal and external presentation
+Develop statistical models to predict clinical and economic outcomes, and performance improvement
+Develop sophisticated key performance indicators to measure improvement related to clinical outcomes
+Identify and connect new data sources to develop an improving learning measurement system
+Measure the effect of educational training, and other quality improvement healthcare solutions
+Implement internal quality control systems
+Qualifications
+Required:
+Bachelor's degree in statistics, applied math, operations research, or econometrics
+Minimum of 4+ years of proven experience doing statistical modeling, and delivering quality products
+Strong understanding of statistical inference foundations
+Good command of R
+Comfortable using SQL
+Familiarity using Gitlab, and R Markdown
+Good use of visualization tools for storytelling
+Preferred
+Master's degree in statistics, applied math, operations research, or econometrics
+Experience in healthcare industry
+Proficient in programming in R, and Python
+Experience using Bayesian inference on applications
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status, and will not be discriminated against because of disability
+Primary Location
+United States-Washington-Seattle-1701 Minor Ave
+Organization
+CSATS Inc.(6261).
+Job Function
+R&D
+Requisition ID
+2105965144W",4.2
+"Business Intelligence Engineer, Alexa Speech Insights and Data Science",Amazon.com Services LLC,,,,,"Experience in a business environment with large-scale, complex datasets
+SQL
+Reporting and Analysis","Master’s degree in Engineering, Science or related field
+Experience in metric creation and reporting
+Proficiency in any programming language; preferably Python
+Experience working on a large-scale deployments and query performance tuning
+Excellent judgment, organizational, and problem-solving skills
+Exceptional interpersonal communication skill, including verbal, written, listening and customer relationships
+Experience in producing comprehensive, usable dataset documentation and metadata.",,"Experience in a business environment with large-scale, complex datasets
+SQL
+Reporting and Analysis
+Job summary
+Alexa Speech is building the future of voice enabled interactions for our customers not only in Echo family, but also in 3rd party devices and applications. We believe voice is the most natural user interface for interacting with technology across many domains, so we are inventing the future.
+The Role:
+We are looking for an experienced Business Intelligence Engineer (BIE) to join our team for development of our data frameworks and have direct impact on how our customers interact with Alexa. As a BIE on this team, you will be leading deep dive analysis, generation of datasets, and automation of data pipeline to be used for reporting, analysis, and insights. You will work with multiple Data Scientists, Data Engineers, Software Engineers, Product Managers and Program Managers to design and develop new ways for accelerating compelling experiences in Alexa Speech.
+You'll measure your success by the quality of your execution, the pace of innovation you help drive, and the increased satisfaction you deliver. You’ll write SQL and integrate with Amazon's big data systems. You’ll influence the organization on identifying areas for improvement and time series anlysis of key metrics. This role is highly visible and impacting, across Alexa Speech.
+Are you the person that can help in building next generation of insights that enable Alexa to go bigger? Are you ready to make a difference at a company that matters? Do you want to tackle huge challenges? Do you want to make a large impact on the design and architecture of cutting edge products used every day, by people you know? If yes, we would love to talk to you.
+Key job responsibilities
+Deep Dive Analysis
+Report Generation
+Metric Creation
+Reporting Datasets
+ETL - pipelines
+Relational Databases
+Big Data Scaling
+Master’s degree in Engineering, Science or related field
+Experience in metric creation and reporting
+Proficiency in any programming language; preferably Python
+Experience working on a large-scale deployments and query performance tuning
+Excellent judgment, organizational, and problem-solving skills
+Exceptional interpersonal communication skill, including verbal, written, listening and customer relationships
+Experience in producing comprehensive, usable dataset documentation and metadata.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",3.5
+Associate Data Scientist I,UST Global,,,,,Create documentation for personal work as well as performing a peer review of documentation of others' work,,,"Role Proficiency:
+Develop data-driven solutions for difficult business challenges. Utilizing analytical statistical and programming skills to collect analyze and interpret large data sets with supervision.
+Outcomes:
+Work with stakeholders throughout the organization to identify opportunities for leveraging data from our customers to create models that can generate business insights
+Build predictive models and machine learning algorithms to analyse large amounts of information to discover trends and patterns.
+Mine and analyse data from company databases to drive optimization and improvement of product development marketing techniques business strategies etc
+Develop processes and tools to monitor and analyse model performance and data accuracy.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Set FAST goals and provide feedback on FAST goals of reportees
+Measures of Outcomes:
+Number of business processes changed due to vital analysis.
+Models applied to Business Problems
+Number of Business Intelligent Dashboards developed
+Number of productivity standards defined for project
+Number of mandatory trainings completed
+Outputs Expected:
+Statistical Techniques:
+Apply statistical techniques for example regression properties of distributions statistical tests etc. to analyse data.
+Machine Learning Techniques:
+Apply machine learning techniques like clustering decision tree learning artificial neural networks etc. to streamline data analysis.
+Creating advanced algorithms:
+Create advanced algorithms and statistics using regression simulation scenario analysis modelling etc.
+Data Visualization:
+Visualize and present data for stakeholders using: Periscope Business Objects D3 ggplot etc.
+Management and Strategy:
+Oversee the activities of analyst personnel and ensures the efficient execution of their duties.
+Critical business insights:
+Mines the business’s database in search of critical business insights and communicates findings to relevant departments.
+Code:
+Create efficient and reusable code meant for the improvement manipulation and analysis of data.
+Version Control:
+Manages project codebase through version control tools e.g. git bitbucket etc.
+Prescriptive analytics:
+Attempts to identify what business course of action to make
+Create Reports:
+Creates reports depicting the trends and behaviours from the analysed data
+Train end users on new reports and dashboards.
+Document:
+Create documentation for personal work as well as performing a peer review of documentation of others' work
+Manage knowledge:",3.7
+Cancer Data Scientist (Informatics Scientist),"Agilent Technologies, Inc.",,,,,"Analyze, interpret, and summarize platform data
+Develop bioinformatics methods and tools to optimize the design and performance of our platform
+Respond to analysis requests from clients in industry and academia
+Ensure data delivered to clients is of the highest quality
+Other duties as assigned",,,"As a federal contractor and healthcare company committed to protecting the health and safety of our employees, contractors, customers and communities, employees in the U.S. and Puerto Rico are required to be fully vaccinated against COVID-19, unless an approved exemption has been granted for a medical reason, sincerely held religious belief, or an employee is otherwise exempt under applicable law.
+Agilent inspires and supports discoveries that advance the quality of life. We
+provide life science, diagnostic and applied market laboratories worldwide with
+instruments, services, consumables, applications and expertise. Agilent enables
+customers to gain the answers and insights they seek - so they can do what
+they do best: improve the world around us. Information about Agilent is
+available at www.agilent.com.
+Resolution Bioscience, now a part of Agilent, is redefining cancer patient care by
+providing genomic analysis using non-invasive liquid biopsy methods. We are seeking an Informatics Scientist who will analyze, interpret, and summarize circulating tumor DNA (ctDNA) data from cancer patients as part of our bioinformatics group. Resolution Bioscience is a global leader in the development of non-invasive liquid biopsy technologies and companion diagnostics. We create innovative tests that transition rapidly from development to clinical implementation for both retrospective and prospective patient testing. Our team is serious about improving the quality of cancer patient care in a science-first, collegial atmosphere.
+Responsibilities:
+Analyze, interpret, and summarize platform data
+Develop bioinformatics methods and tools to optimize the design and performance of our platform
+Respond to analysis requests from clients in industry and academia
+Ensure data delivered to clients is of the highest quality
+Other duties as assigned",4.1
+Machine Learning Scientist,Glassdoor,,"$129,300 - $193,900 a year",,"Health insurance
+Unlimited paid time off
+Dental insurance
+401(k)
+Paid time off
+Dependent health insurance coverage
+Vision insurance
+401(k) matching
+Life insurance","At Glassdoor, operating transparently is at the heart of everything we do. That's why we let job seekers know that salary ranges may differ for jobs depending on where these positions are filled. It's no secret that the cost of living and other economic considerations vary widely across the country and the world.","Tier 1 encompasses the highest salary range for states where large metropolitan areas are located (ie: San Francisco, New York City, Washington DC, & etc)
+Tier 2 encompasses salary ranges 15% less than those in Tier 1 for states with mid-sized cities (ie: Chicago, Dallas, Portland, etc)
+Tier 3 encompasses salary ranges 20% less than those in Tier 1 for states with smaller cities (including our Ohio office, Nevada, etc)","Work with a team of engineers and data scientists to build, implement, and improve NLP and Search solutions for entity recognition, classification, clustering, and recommendation.
+Define, research and implement features to improve our user experience on User Generated Content, such as reviews and interview questions
+Coordinate cross-team projects and proactively drive projects to completion","Our mission is to help people everywhere find a job and company they love. We're transforming the workplace experience through the power of transparency. As the worldwide leader in employer branding and insights, our vision is for a world where transparency empowers the workforce and motivates companies to become better employers.
+Please note this role is open to remote hiring. Our main office locations are in San Francisco, CA, Chicago, IL and Uniontown, OH.
+You will be part of a highly talented team of machine learning engineers and data scientists, using the latest machine learning technologies to improve Glassdoor's products on user generated content, such as company reviews and interview questions.
+Join us if you have a good understanding of NLP, Search, and machine learning techniques and experience implementing those models at large scale in real-world applications.
+Compensation: $129,300.00 - $193,900.00
+At Glassdoor, operating transparently is at the heart of everything we do. That's why we let job seekers know that salary ranges may differ for jobs depending on where these positions are filled. It's no secret that the cost of living and other economic considerations vary widely across the country and the world.
+At Glassdoor we use a ""tier"" system to promote consistency in level of compensation for where roles are filled in different locations. The tiers are as follows:
+Tier 1 encompasses the highest salary range for states where large metropolitan areas are located (ie: San Francisco, New York City, Washington DC, & etc)
+Tier 2 encompasses salary ranges 15% less than those in Tier 1 for states with mid-sized cities (ie: Chicago, Dallas, Portland, etc)
+Tier 3 encompasses salary ranges 20% less than those in Tier 1 for states with smaller cities (including our Ohio office, Nevada, etc)
+You can learn more about our compensation philosophy here and see salary ranges for all Glassdoor jobs here.
+What You'll Do:
+Work with a team of engineers and data scientists to build, implement, and improve NLP and Search solutions for entity recognition, classification, clustering, and recommendation.
+Define, research and implement features to improve our user experience on User Generated Content, such as reviews and interview questions
+Coordinate cross-team projects and proactively drive projects to completion
+What You'll Bring
+MS or PhD in Machine Learning, Computer Science, or related field.
+1+ years of industry experience with applied machine learning in production.
+Comprehensive knowledge of machine learning concepts, including classification, regression, and unsupervised learning.
+Hands-on experience with traditional machine learning as well as deep learning algorithms.
+Proficiency with Python programming, including numeric, data analysis, and machine learning libraries such as NumPy, pandas, scikit-learn, and/or PyTorch.
+Shown understanding of statistical and mathematical methods used in machine learning, evaluation, and hypothesis testing.
+Proficiency with SQL for data analysis.
+Hands-on experience with feature engineering using structured or unstructured data.
+Excellent written and verbal communication skills.
+For more information about some of the exciting technology work being done at Glassdoor, check out our Engineering Blog!
+Why Glassdoor?
+100% company paid medical/dental/vision/life coverage, with 80% dependent coverage.
+Equity Incentives in our parent company's ADR (Recruit Holdings, Stock ID: 6098T).
+Annual 10% bonus aligning with bi-annual performance reviews.
+401(k) Plan with a Company Match to prepare for your future.
+Generous paid holidays and open paid time off.
+Our Commitments
+Transparency: We are open and honest. We share information – the good and the bad – so we can continuously learn, collaborate and make the right decisions. Pay bands, our compensation philosophy, and employee feedback survey responses are shared publicly.
+Innovation: We actively pursue new and different ways to further Glassdoor's mission. We forge our own path by challenging the status quo. The ultimate goal is not just to change how we operate at Glassdoor, but for every employer to follow our lead!
+Good People: We work together with integrity, respect and compassion for one another. We have fun together! We are inclusive, fair and humble while remaining confident. We do the right thing, period.
+GRIT: We are resilient, inventive and fearless. We see challenges as opportunities. With passion and courage, we come together to get the job done.
+Diversity, Equity, and Inclusion: We are dedicated to building a company that is more diverse and representative of society at large. Glassdoor externally publishes our Diversity & Inclusion report and information about our employee population to hold ourselves accountable to our dedication. We also provide programs and resources to build a greater sense of belonging for our employees.
+The ultimate goal is not just to change how we operate at Glassdoor, but for every employer to follow our lead!
+Glassdoor is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to race, color, religion, national origin, ethnicity, age, sex, marital status, physical or mental disability, gender identity, sexual orientation, veteran or military status, or any other category protected under the law. Glassdoor is an equal opportunity employer; committed to creating a community of inclusion, and an environment free from discrimination, harassment, and retaliation.",4.2
+Product Analyst/Data Scientist,Salesforce,,"$82,400 a year",Full-time,"Adoption assistance
+Parental leave",LI-Y,"Partner with Senior Leadership (VP+) to understand their business and advise on strategic objectives, product direction, roadmaps, growth goals and retention strategies; as a Senior Analyst/ Data Scientist you will develop and own the relationships with senior stakeholders
+Produce insights (e.g. performance drivers, retention analysis, behavioral personas) to accelerate business growth; this requires acquiring and cleaning data from multiple sources, structuring and building data models, analyzing to generate insights, and distributing them
+Partner with the data engineering team and product engineering team to instrument, acquire, develop and structure data assets that are critical to measuring the success of our products
+Own the delivery by working with data engineers and business intelligence engineers to turn insights into data products (e.g. data pipelines, algorithms, self-service dashboards)
+Research, develop and implement automated algorithm deployment pipelines and processes
+Evangelize and distribute data products that drive action or product improvement
+Contribute to expanding the Salesforce data culture by growing new relationships, hosting learning sessions, integrating or designing new tools, and autonomously improving team processes","Analytical thinker with a passion for using data and scientific methods to solve business problems (4+ years of experience in product analytics or data science)
+Proficient with common analytical programming languages e.g. Python; expert in SQL
+Expert in end to end data development, including data model design, quality review, deployment and maintenance
+Experienced in developing and deploying data science models, especially in the Cloud environment
+Passionate about automating data that directly solving business problem
+Charismatic storyteller ready to lead growth conversations with senior leadership
+Lover of building relationships and collaborating in a cross-disciplinary environment.","To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+Job Category
+Products and Technology
+Job Details
+***** If you are currently in college/ grad school or have less than 2 years of experience - please check out FutureForce job opportunities at Salesforce:
+https://www.salesforce.com/company/careers/university-recruiting/
+Salesforce, the Customer Success Platform and world's #1 CRM, empowers companies to connect with their customers in a whole new way. We are the fastest growing of the top 10 enterprise software companies, the World’s Most Innovative Company according to Forbes, and one of Fortune’s 100 Best Companies to Work For six years running. The growth, innovation, and Aloha spirit of Salesforce are driven by our incredible employees who thrive on delivering success for our customers while also finding time to give back through our 1/1/1 model, which leverages 1% of our time, equity, and product to improve communities around the world. Salesforce is a team sport, and we play to win. Join us!
+Salesforce has a number of teams hiring Product Analysts/Data Scientists with a variety of experience across, but not limited to, the following types of teams:
+Data Intelligence
+Monetization Strategy
+AppExchange
+Trailhead
+Developer Experience
+Each team is made up of data scientists, engineers, growth analysts, and information management experts who are dedicated to driving product strategy with data-driven insights. Teams with executives, product managers, designers, developers, user researchers, marketers, and sales strategy team members across all Cloud businesses to discover new opportunities for growth and optimization, experiment with data, drive adoption, and deliver useful insights that impact product strategy.
+As a Senior Product Analyst /Data Scientist, you will be partnering with the Product and Engineering teams embedded in the Cloud businesses, as well as Data Intelligence functional leaders who provide data and analytical infrastructure, identify and execute initiatives that benefit the whole Di and multiple Cloud businesses. The successful candidate will need to:
+Partner with Senior Leadership (VP+) to understand their business and advise on strategic objectives, product direction, roadmaps, growth goals and retention strategies; as a Senior Analyst/ Data Scientist you will develop and own the relationships with senior stakeholders
+Produce insights (e.g. performance drivers, retention analysis, behavioral personas) to accelerate business growth; this requires acquiring and cleaning data from multiple sources, structuring and building data models, analyzing to generate insights, and distributing them
+Partner with the data engineering team and product engineering team to instrument, acquire, develop and structure data assets that are critical to measuring the success of our products
+Own the delivery by working with data engineers and business intelligence engineers to turn insights into data products (e.g. data pipelines, algorithms, self-service dashboards)
+Research, develop and implement automated algorithm deployment pipelines and processes
+Evangelize and distribute data products that drive action or product improvement
+Contribute to expanding the Salesforce data culture by growing new relationships, hosting learning sessions, integrating or designing new tools, and autonomously improving team processes
+Who You Are:
+Analytical thinker with a passion for using data and scientific methods to solve business problems (4+ years of experience in product analytics or data science)
+Proficient with common analytical programming languages e.g. Python; expert in SQL
+Expert in end to end data development, including data model design, quality review, deployment and maintenance
+Experienced in developing and deploying data science models, especially in the Cloud environment
+Passionate about automating data that directly solving business problem
+Charismatic storyteller ready to lead growth conversations with senior leadership
+Lover of building relationships and collaborating in a cross-disciplinary environment.
+Salesforce will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+For Colorado-based roles: Minimum annual salary of $82,400. You may also be offered a bonus, restricted stock units, and benefits. More details about our company benefits can be found at the following link: https://www.getsalesforcebenefits.com/ .
+You can find other info there as well- including wellbeing reimbursement, generous parental leave, adoption assistance, fertility benefits, and more. Visit for the full breakdown!
+Open to Fully Remote, Flex (1-3 days/week in the office), or Office-Based (4-5 days/week in office)
+LI-Y
+Accommodations
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+Posting Statement
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .
+Salesforce welcomes all.
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+As a federal contractor, Salesforce is required to verify that all US-based employees are fully vaccinated against COVID-19. If you receive an offer and are unable to get vaccinated for religious or medical reasons, you may request a reasonable accommodation.",4.3
+Data & Applied Sciences: Full Time Opportunities for PhD Graduates,Microsoft,"One Microsoft Way, Redmond, WA 98052",,,,"Currently pursuing or completed a PhD degree in Computer Science, Mathematics, Economics, Statistics, Applied Sciences like Biostatistics, Physics, Chemistry, Computational Neurology and or other quant-focused field
+Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc.
+Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#.
+Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS.
+Some experience and or project course work with product and service telemetry systems.
+Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.) Not required but ideal.
+Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data. Machine Learning strongly encouraged.
+Passion to learn from your peers, manager, and other stakeholders in the Data Science domain.
+Ability to interact with peers and stakeholders to drive product and business impact.
+Strong interpersonal and communications skills.",,,"Every year, we welcome thousands of university graduates from every corner of the world to join Microsoft. You bring your aspirations, talent, potential—and excitement for the journey ahead.
+At Microsoft, our mission is to empower every person and every organization on the planet to achieve more and when you begin your career with us, we empower you through the Microsoft Aspire Experience. Those hired into this role are invited to participate in this two-year learning and development experience where you'll build your network, cultivate intentional capabilities and gain perspective into the career opportunities across Microsoft’s many exciting businesses.
+We’re a company of learn-it-all’s rather than know-it-alls and our culture is centered around embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. Does this sound like you? Learn more about our cultural attributes.
+Are you ready to join us and create the future? Come as you are, do what you love—start your journey with us today!
+Responsibilities
+As a Data Scientist, you will formulate approaches to solve problems using well-defined algorithms and data sources. You will incorporate an understanding of product functionality and customer perspective to provide context for those problems. You will use data exploration techniques to discover new questions or opportunities within your problem area and propose applicability and limitations of the data. Successful Data Scientists will interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve.
+You will engage with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers. As a Data Scientist, you will also engage in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results.
+Qualifications
+Currently pursuing or completed a PhD degree in Computer Science, Mathematics, Economics, Statistics, Applied Sciences like Biostatistics, Physics, Chemistry, Computational Neurology and or other quant-focused field
+Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc.
+Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#.
+Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS.
+Some experience and or project course work with product and service telemetry systems.
+Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.) Not required but ideal.
+Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data. Machine Learning strongly encouraged.
+Passion to learn from your peers, manager, and other stakeholders in the Data Science domain.
+Ability to interact with peers and stakeholders to drive product and business impact.
+Strong interpersonal and communications skills.
+Visit our Careers FAQ Page to learn more about the interview process and answers to commonly asked questions.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",4.2
+Product Owner - Data Analytics,Costco Wholesale,"4401 4TH AVE S, Seattle, WA 98134",,,,"Leads Scrum sprint planning; provides sprint goals and new user stories; gives feedback during the sprint review; drives information and learning in the daily scrum; and reflects and takes action during the sprint retrospective.
+Participates in the translation of software features into technical requirements and follows Agile Scrum-based software development.
+Shares in the responsibility to maintain a groomed backlog and use effective Agile processes (Scrum and Agile).
+Works with stakeholders to identify KPIs and gather data analytics requirements.
+Tests reports to ensure optimal user experience and data accuracy.
+Adapts to changing business situations and priorities.
+Delivers data solutions that result in business value.
+Works with business stakeholders to understand processes and documenting requirements.
+Works with cross-departmental business partners, Data/BI engineers/ Data Architects/Data Scientists/Platform Engineers, and own the end to end delivery of the data products, which includes documenting and prioritizing user stories; demoing solution designs; testing and releasing changes into a Production environment.
+Ensures teams meet their sprint commitments so product deliverables are on time.
+Breaks down big problems into small stories that provide value to users.
+Partners and works with business stakeholders to define high impact analytical problems and find innovative ways to solve problems with data.
+Documents detailed acceptance criteria that developers and QA can rely upon to complete their tasks.
+Works with Delivery managers to communicate project statuses; and identifies, addresses, and escalates potential setbacks and risks.
+Organizes sprint and milestone demonstrations with stakeholders while providing guidance to agile teams.","3+ years’ experience working in Agile teams.
+2+ years’ experience within Data Analytics ( DataWarehouse, BI, ETL).
+1+ years’ Agile Product Owner experience.
+Agile Product Owner Certification.
+Experience with ADO and ServiceNow.
+Experience working with remote teams.
+Experience working in a DevOps environment.
+Collaborative team player, with strong communication skills, including the ability to translate complex technical data products and features into simple concepts and presentations.","Must be well organized, accurate, and attentive to detail.
+Excellent communication, public relations, and follow up skills.
+A strong work ethic and sense of accountability.
+Good judgment and decision-making skills.
+Maintains a positive and results-oriented attitude.","This is an environment unlike anything in the high-tech world and the secret of Costco’s success is its culture. The value Costco puts on its employees is well documented in articles from a variety of publishers including Bloomberg and Forbes. Our employees and our members come FIRST. Costco is well known for its generosity and community service and has won many awards for its philanthropy. The company joins with its employees to take an active role in volunteering by sponsoring many opportunities to help others. In 2018, Costco contributed over $39 million to organizations such as United Way and Children's Miracle Network Hospitals.
+Costco IT is responsible for the technical future of Costco Wholesale, the second largest retailer in the world with wholesale operations in twelve countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed. As proof, Costco consistently ranks in the top five of Forbes “America’s Best Employers”.
+The Product Owner (PO) works closely with different stakeholders in the business to gather requirements; prepare solid specifications for new features to be developed by the Data/BI/Quality Engineering and Data Science teams; and take ownership of projects from concept to launch. IT Product Owners will be integral to driving agile methodologies and best practices. The PO will contribute to and drive the strategic direction of data analytics products and identify opportunities to increase business value from growing data repositories. Individuals in this role will be a key steward to help drive insights and be an integral part of the data analytics products delivery team that will continue to inspire a richer data-driven culture.
+The Product Owner will influence, educate, and prioritize the data and analytics requirements backlog as well as the strategic decisions to enable the next slate of outstanding experiences for our customers.
+A successful candidate will have experience of working in the retail industry, be an effective communicator and have a good understanding of user experience and database technologies.
+If you want to be a part of one of the BEST “to work for” companies in the world, simply apply and let your career be reimagined.
+ROLE
+Leads Scrum sprint planning; provides sprint goals and new user stories; gives feedback during the sprint review; drives information and learning in the daily scrum; and reflects and takes action during the sprint retrospective.
+Participates in the translation of software features into technical requirements and follows Agile Scrum-based software development.
+Shares in the responsibility to maintain a groomed backlog and use effective Agile processes (Scrum and Agile).
+Works with stakeholders to identify KPIs and gather data analytics requirements.
+Tests reports to ensure optimal user experience and data accuracy.
+Adapts to changing business situations and priorities.
+Delivers data solutions that result in business value.
+Works with business stakeholders to understand processes and documenting requirements.
+Works with cross-departmental business partners, Data/BI engineers/ Data Architects/Data Scientists/Platform Engineers, and own the end to end delivery of the data products, which includes documenting and prioritizing user stories; demoing solution designs; testing and releasing changes into a Production environment.
+Ensures teams meet their sprint commitments so product deliverables are on time.
+Breaks down big problems into small stories that provide value to users.
+Partners and works with business stakeholders to define high impact analytical problems and find innovative ways to solve problems with data.
+Documents detailed acceptance criteria that developers and QA can rely upon to complete their tasks.
+Works with Delivery managers to communicate project statuses; and identifies, addresses, and escalates potential setbacks and risks.
+Organizes sprint and milestone demonstrations with stakeholders while providing guidance to agile teams.
+REQUIRED
+3+ years’ experience working in Agile teams.
+2+ years’ experience within Data Analytics ( DataWarehouse, BI, ETL).
+1+ years’ Agile Product Owner experience.
+Agile Product Owner Certification.
+Experience with ADO and ServiceNow.
+Experience working with remote teams.
+Experience working in a DevOps environment.
+Collaborative team player, with strong communication skills, including the ability to translate complex technical data products and features into simple concepts and presentations.
+Recommended
+Must be well organized, accurate, and attentive to detail.
+Excellent communication, public relations, and follow up skills.
+A strong work ethic and sense of accountability.
+Good judgment and decision-making skills.
+Maintains a positive and results-oriented attitude.
+Required Documents
+Cover Letter
+Resume
+California applicants, please click here to review the Costco Applicant Privacy Notice.
+Apart from any religious or disability considerations, open availability is needed to meet the needs of the business. If hired, you will be required to provide proof of authorization to work in the United States. Applicants and employees for this position will not be sponsored for work authorization, including, but not limited to H1-B visas.",4.1
